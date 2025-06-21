@@ -9,6 +9,7 @@ namespace UnityClock
 {
     public static class Clock
     {
+        
         [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]
         private static void SubsystemRegistration()
         {

@@ -22,6 +22,12 @@ jobs:
         uses: CaseyHofland/docfx-unitypackage@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: docfx-site
+          path: _site/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

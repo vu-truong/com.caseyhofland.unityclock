@@ -1,0 +1,1703 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: System
+  name: System
+  href: api/System.html
+  commentId: N:System
+  fullName: System
+  nameWithType: System
+- uid: System.TimeOnly
+  name: TimeOnly
+  href: api/System.TimeOnly.html
+  commentId: T:System.TimeOnly
+  fullName: System.TimeOnly
+  nameWithType: TimeOnly
+- uid: System.TimeOnly.#ctor(System.Int32,System.Int32)
+  name: TimeOnly(int, int)
+  href: api/System.TimeOnly.html#System_TimeOnly__ctor_System_Int32_System_Int32_
+  commentId: M:System.TimeOnly.#ctor(System.Int32,System.Int32)
+  name.vb: New(Integer, Integer)
+  fullName: System.TimeOnly.TimeOnly(int, int)
+  fullName.vb: System.TimeOnly.New(Integer, Integer)
+  nameWithType: TimeOnly.TimeOnly(int, int)
+  nameWithType.vb: TimeOnly.New(Integer, Integer)
+- uid: System.TimeOnly.#ctor(System.Int32,System.Int32,System.Int32)
+  name: TimeOnly(int, int, int)
+  href: api/System.TimeOnly.html#System_TimeOnly__ctor_System_Int32_System_Int32_System_Int32_
+  commentId: M:System.TimeOnly.#ctor(System.Int32,System.Int32,System.Int32)
+  name.vb: New(Integer, Integer, Integer)
+  fullName: System.TimeOnly.TimeOnly(int, int, int)
+  fullName.vb: System.TimeOnly.New(Integer, Integer, Integer)
+  nameWithType: TimeOnly.TimeOnly(int, int, int)
+  nameWithType.vb: TimeOnly.New(Integer, Integer, Integer)
+- uid: System.TimeOnly.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)
+  name: TimeOnly(int, int, int, int)
+  href: api/System.TimeOnly.html#System_TimeOnly__ctor_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:System.TimeOnly.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)
+  name.vb: New(Integer, Integer, Integer, Integer)
+  fullName: System.TimeOnly.TimeOnly(int, int, int, int)
+  fullName.vb: System.TimeOnly.New(Integer, Integer, Integer, Integer)
+  nameWithType: TimeOnly.TimeOnly(int, int, int, int)
+  nameWithType.vb: TimeOnly.New(Integer, Integer, Integer, Integer)
+- uid: System.TimeOnly.#ctor(System.Int64)
+  name: TimeOnly(long)
+  href: api/System.TimeOnly.html#System_TimeOnly__ctor_System_Int64_
+  commentId: M:System.TimeOnly.#ctor(System.Int64)
+  name.vb: New(Long)
+  fullName: System.TimeOnly.TimeOnly(long)
+  fullName.vb: System.TimeOnly.New(Long)
+  nameWithType: TimeOnly.TimeOnly(long)
+  nameWithType.vb: TimeOnly.New(Long)
+- uid: System.TimeOnly.#ctor*
+  name: TimeOnly
+  href: api/System.TimeOnly.html#System_TimeOnly__ctor_
+  commentId: Overload:System.TimeOnly.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: System.TimeOnly.TimeOnly
+  fullName.vb: System.TimeOnly.New
+  nameWithType: TimeOnly.TimeOnly
+  nameWithType.vb: TimeOnly.New
+- uid: System.TimeOnly.Add(System.TimeSpan)
+  name: Add(TimeSpan)
+  href: api/System.TimeOnly.html#System_TimeOnly_Add_System_TimeSpan_
+  commentId: M:System.TimeOnly.Add(System.TimeSpan)
+  fullName: System.TimeOnly.Add(System.TimeSpan)
+  nameWithType: TimeOnly.Add(TimeSpan)
+- uid: System.TimeOnly.Add(System.TimeSpan,System.Int32@)
+  name: Add(TimeSpan, out int)
+  href: api/System.TimeOnly.html#System_TimeOnly_Add_System_TimeSpan_System_Int32__
+  commentId: M:System.TimeOnly.Add(System.TimeSpan,System.Int32@)
+  name.vb: Add(TimeSpan, Integer)
+  fullName: System.TimeOnly.Add(System.TimeSpan, out int)
+  fullName.vb: System.TimeOnly.Add(System.TimeSpan, Integer)
+  nameWithType: TimeOnly.Add(TimeSpan, out int)
+  nameWithType.vb: TimeOnly.Add(TimeSpan, Integer)
+- uid: System.TimeOnly.Add*
+  name: Add
+  href: api/System.TimeOnly.html#System_TimeOnly_Add_
+  commentId: Overload:System.TimeOnly.Add
+  isSpec: "True"
+  fullName: System.TimeOnly.Add
+  nameWithType: TimeOnly.Add
+- uid: System.TimeOnly.AddHours(System.Double)
+  name: AddHours(double)
+  href: api/System.TimeOnly.html#System_TimeOnly_AddHours_System_Double_
+  commentId: M:System.TimeOnly.AddHours(System.Double)
+  name.vb: AddHours(Double)
+  fullName: System.TimeOnly.AddHours(double)
+  fullName.vb: System.TimeOnly.AddHours(Double)
+  nameWithType: TimeOnly.AddHours(double)
+  nameWithType.vb: TimeOnly.AddHours(Double)
+- uid: System.TimeOnly.AddHours(System.Double,System.Int32@)
+  name: AddHours(double, out int)
+  href: api/System.TimeOnly.html#System_TimeOnly_AddHours_System_Double_System_Int32__
+  commentId: M:System.TimeOnly.AddHours(System.Double,System.Int32@)
+  name.vb: AddHours(Double, Integer)
+  fullName: System.TimeOnly.AddHours(double, out int)
+  fullName.vb: System.TimeOnly.AddHours(Double, Integer)
+  nameWithType: TimeOnly.AddHours(double, out int)
+  nameWithType.vb: TimeOnly.AddHours(Double, Integer)
+- uid: System.TimeOnly.AddHours*
+  name: AddHours
+  href: api/System.TimeOnly.html#System_TimeOnly_AddHours_
+  commentId: Overload:System.TimeOnly.AddHours
+  isSpec: "True"
+  fullName: System.TimeOnly.AddHours
+  nameWithType: TimeOnly.AddHours
+- uid: System.TimeOnly.AddMinutes(System.Double)
+  name: AddMinutes(double)
+  href: api/System.TimeOnly.html#System_TimeOnly_AddMinutes_System_Double_
+  commentId: M:System.TimeOnly.AddMinutes(System.Double)
+  name.vb: AddMinutes(Double)
+  fullName: System.TimeOnly.AddMinutes(double)
+  fullName.vb: System.TimeOnly.AddMinutes(Double)
+  nameWithType: TimeOnly.AddMinutes(double)
+  nameWithType.vb: TimeOnly.AddMinutes(Double)
+- uid: System.TimeOnly.AddMinutes(System.Double,System.Int32@)
+  name: AddMinutes(double, out int)
+  href: api/System.TimeOnly.html#System_TimeOnly_AddMinutes_System_Double_System_Int32__
+  commentId: M:System.TimeOnly.AddMinutes(System.Double,System.Int32@)
+  name.vb: AddMinutes(Double, Integer)
+  fullName: System.TimeOnly.AddMinutes(double, out int)
+  fullName.vb: System.TimeOnly.AddMinutes(Double, Integer)
+  nameWithType: TimeOnly.AddMinutes(double, out int)
+  nameWithType.vb: TimeOnly.AddMinutes(Double, Integer)
+- uid: System.TimeOnly.AddMinutes*
+  name: AddMinutes
+  href: api/System.TimeOnly.html#System_TimeOnly_AddMinutes_
+  commentId: Overload:System.TimeOnly.AddMinutes
+  isSpec: "True"
+  fullName: System.TimeOnly.AddMinutes
+  nameWithType: TimeOnly.AddMinutes
+- uid: System.TimeOnly.CompareTo(System.Object)
+  name: CompareTo(object?)
+  href: api/System.TimeOnly.html#System_TimeOnly_CompareTo_System_Object_
+  commentId: M:System.TimeOnly.CompareTo(System.Object)
+  name.vb: CompareTo(Object)
+  fullName: System.TimeOnly.CompareTo(object?)
+  fullName.vb: System.TimeOnly.CompareTo(Object)
+  nameWithType: TimeOnly.CompareTo(object?)
+  nameWithType.vb: TimeOnly.CompareTo(Object)
+- uid: System.TimeOnly.CompareTo(System.TimeOnly)
+  name: CompareTo(TimeOnly)
+  href: api/System.TimeOnly.html#System_TimeOnly_CompareTo_System_TimeOnly_
+  commentId: M:System.TimeOnly.CompareTo(System.TimeOnly)
+  fullName: System.TimeOnly.CompareTo(System.TimeOnly)
+  nameWithType: TimeOnly.CompareTo(TimeOnly)
+- uid: System.TimeOnly.CompareTo*
+  name: CompareTo
+  href: api/System.TimeOnly.html#System_TimeOnly_CompareTo_
+  commentId: Overload:System.TimeOnly.CompareTo
+  isSpec: "True"
+  fullName: System.TimeOnly.CompareTo
+  nameWithType: TimeOnly.CompareTo
+- uid: System.TimeOnly.Equals(System.Object)
+  name: Equals(object?)
+  href: api/System.TimeOnly.html#System_TimeOnly_Equals_System_Object_
+  commentId: M:System.TimeOnly.Equals(System.Object)
+  name.vb: Equals(Object)
+  fullName: System.TimeOnly.Equals(object?)
+  fullName.vb: System.TimeOnly.Equals(Object)
+  nameWithType: TimeOnly.Equals(object?)
+  nameWithType.vb: TimeOnly.Equals(Object)
+- uid: System.TimeOnly.Equals(System.TimeOnly)
+  name: Equals(TimeOnly)
+  href: api/System.TimeOnly.html#System_TimeOnly_Equals_System_TimeOnly_
+  commentId: M:System.TimeOnly.Equals(System.TimeOnly)
+  fullName: System.TimeOnly.Equals(System.TimeOnly)
+  nameWithType: TimeOnly.Equals(TimeOnly)
+- uid: System.TimeOnly.Equals*
+  name: Equals
+  href: api/System.TimeOnly.html#System_TimeOnly_Equals_
+  commentId: Overload:System.TimeOnly.Equals
+  isSpec: "True"
+  fullName: System.TimeOnly.Equals
+  nameWithType: TimeOnly.Equals
+- uid: System.TimeOnly.FromDateTime(System.DateTime)
+  name: FromDateTime(DateTime)
+  href: api/System.TimeOnly.html#System_TimeOnly_FromDateTime_System_DateTime_
+  commentId: M:System.TimeOnly.FromDateTime(System.DateTime)
+  name.vb: FromDateTime(Date)
+  fullName: System.TimeOnly.FromDateTime(System.DateTime)
+  fullName.vb: System.TimeOnly.FromDateTime(Date)
+  nameWithType: TimeOnly.FromDateTime(DateTime)
+  nameWithType.vb: TimeOnly.FromDateTime(Date)
+- uid: System.TimeOnly.FromDateTime*
+  name: FromDateTime
+  href: api/System.TimeOnly.html#System_TimeOnly_FromDateTime_
+  commentId: Overload:System.TimeOnly.FromDateTime
+  isSpec: "True"
+  fullName: System.TimeOnly.FromDateTime
+  nameWithType: TimeOnly.FromDateTime
+- uid: System.TimeOnly.FromTimeSpan(System.TimeSpan)
+  name: FromTimeSpan(TimeSpan)
+  href: api/System.TimeOnly.html#System_TimeOnly_FromTimeSpan_System_TimeSpan_
+  commentId: M:System.TimeOnly.FromTimeSpan(System.TimeSpan)
+  fullName: System.TimeOnly.FromTimeSpan(System.TimeSpan)
+  nameWithType: TimeOnly.FromTimeSpan(TimeSpan)
+- uid: System.TimeOnly.FromTimeSpan*
+  name: FromTimeSpan
+  href: api/System.TimeOnly.html#System_TimeOnly_FromTimeSpan_
+  commentId: Overload:System.TimeOnly.FromTimeSpan
+  isSpec: "True"
+  fullName: System.TimeOnly.FromTimeSpan
+  nameWithType: TimeOnly.FromTimeSpan
+- uid: System.TimeOnly.GetHashCode
+  name: GetHashCode()
+  href: api/System.TimeOnly.html#System_TimeOnly_GetHashCode
+  commentId: M:System.TimeOnly.GetHashCode
+  fullName: System.TimeOnly.GetHashCode()
+  nameWithType: TimeOnly.GetHashCode()
+- uid: System.TimeOnly.GetHashCode*
+  name: GetHashCode
+  href: api/System.TimeOnly.html#System_TimeOnly_GetHashCode_
+  commentId: Overload:System.TimeOnly.GetHashCode
+  isSpec: "True"
+  fullName: System.TimeOnly.GetHashCode
+  nameWithType: TimeOnly.GetHashCode
+- uid: System.TimeOnly.Hour
+  name: Hour
+  href: api/System.TimeOnly.html#System_TimeOnly_Hour
+  commentId: P:System.TimeOnly.Hour
+  fullName: System.TimeOnly.Hour
+  nameWithType: TimeOnly.Hour
+- uid: System.TimeOnly.Hour*
+  name: Hour
+  href: api/System.TimeOnly.html#System_TimeOnly_Hour_
+  commentId: Overload:System.TimeOnly.Hour
+  isSpec: "True"
+  fullName: System.TimeOnly.Hour
+  nameWithType: TimeOnly.Hour
+- uid: System.TimeOnly.IsBetween(System.TimeOnly,System.TimeOnly)
+  name: IsBetween(TimeOnly, TimeOnly)
+  href: api/System.TimeOnly.html#System_TimeOnly_IsBetween_System_TimeOnly_System_TimeOnly_
+  commentId: M:System.TimeOnly.IsBetween(System.TimeOnly,System.TimeOnly)
+  fullName: System.TimeOnly.IsBetween(System.TimeOnly, System.TimeOnly)
+  nameWithType: TimeOnly.IsBetween(TimeOnly, TimeOnly)
+- uid: System.TimeOnly.IsBetween*
+  name: IsBetween
+  href: api/System.TimeOnly.html#System_TimeOnly_IsBetween_
+  commentId: Overload:System.TimeOnly.IsBetween
+  isSpec: "True"
+  fullName: System.TimeOnly.IsBetween
+  nameWithType: TimeOnly.IsBetween
+- uid: System.TimeOnly.MaxValue
+  name: MaxValue
+  href: api/System.TimeOnly.html#System_TimeOnly_MaxValue
+  commentId: P:System.TimeOnly.MaxValue
+  fullName: System.TimeOnly.MaxValue
+  nameWithType: TimeOnly.MaxValue
+- uid: System.TimeOnly.MaxValue*
+  name: MaxValue
+  href: api/System.TimeOnly.html#System_TimeOnly_MaxValue_
+  commentId: Overload:System.TimeOnly.MaxValue
+  isSpec: "True"
+  fullName: System.TimeOnly.MaxValue
+  nameWithType: TimeOnly.MaxValue
+- uid: System.TimeOnly.Millisecond
+  name: Millisecond
+  href: api/System.TimeOnly.html#System_TimeOnly_Millisecond
+  commentId: P:System.TimeOnly.Millisecond
+  fullName: System.TimeOnly.Millisecond
+  nameWithType: TimeOnly.Millisecond
+- uid: System.TimeOnly.Millisecond*
+  name: Millisecond
+  href: api/System.TimeOnly.html#System_TimeOnly_Millisecond_
+  commentId: Overload:System.TimeOnly.Millisecond
+  isSpec: "True"
+  fullName: System.TimeOnly.Millisecond
+  nameWithType: TimeOnly.Millisecond
+- uid: System.TimeOnly.MinValue
+  name: MinValue
+  href: api/System.TimeOnly.html#System_TimeOnly_MinValue
+  commentId: P:System.TimeOnly.MinValue
+  fullName: System.TimeOnly.MinValue
+  nameWithType: TimeOnly.MinValue
+- uid: System.TimeOnly.MinValue*
+  name: MinValue
+  href: api/System.TimeOnly.html#System_TimeOnly_MinValue_
+  commentId: Overload:System.TimeOnly.MinValue
+  isSpec: "True"
+  fullName: System.TimeOnly.MinValue
+  nameWithType: TimeOnly.MinValue
+- uid: System.TimeOnly.Minute
+  name: Minute
+  href: api/System.TimeOnly.html#System_TimeOnly_Minute
+  commentId: P:System.TimeOnly.Minute
+  fullName: System.TimeOnly.Minute
+  nameWithType: TimeOnly.Minute
+- uid: System.TimeOnly.Minute*
+  name: Minute
+  href: api/System.TimeOnly.html#System_TimeOnly_Minute_
+  commentId: Overload:System.TimeOnly.Minute
+  isSpec: "True"
+  fullName: System.TimeOnly.Minute
+  nameWithType: TimeOnly.Minute
+- uid: System.TimeOnly.Second
+  name: Second
+  href: api/System.TimeOnly.html#System_TimeOnly_Second
+  commentId: P:System.TimeOnly.Second
+  fullName: System.TimeOnly.Second
+  nameWithType: TimeOnly.Second
+- uid: System.TimeOnly.Second*
+  name: Second
+  href: api/System.TimeOnly.html#System_TimeOnly_Second_
+  commentId: Overload:System.TimeOnly.Second
+  isSpec: "True"
+  fullName: System.TimeOnly.Second
+  nameWithType: TimeOnly.Second
+- uid: System.TimeOnly.Ticks
+  name: Ticks
+  href: api/System.TimeOnly.html#System_TimeOnly_Ticks
+  commentId: P:System.TimeOnly.Ticks
+  fullName: System.TimeOnly.Ticks
+  nameWithType: TimeOnly.Ticks
+- uid: System.TimeOnly.Ticks*
+  name: Ticks
+  href: api/System.TimeOnly.html#System_TimeOnly_Ticks_
+  commentId: Overload:System.TimeOnly.Ticks
+  isSpec: "True"
+  fullName: System.TimeOnly.Ticks
+  nameWithType: TimeOnly.Ticks
+- uid: System.TimeOnly.ToLongTimeString
+  name: ToLongTimeString()
+  href: api/System.TimeOnly.html#System_TimeOnly_ToLongTimeString
+  commentId: M:System.TimeOnly.ToLongTimeString
+  fullName: System.TimeOnly.ToLongTimeString()
+  nameWithType: TimeOnly.ToLongTimeString()
+- uid: System.TimeOnly.ToLongTimeString*
+  name: ToLongTimeString
+  href: api/System.TimeOnly.html#System_TimeOnly_ToLongTimeString_
+  commentId: Overload:System.TimeOnly.ToLongTimeString
+  isSpec: "True"
+  fullName: System.TimeOnly.ToLongTimeString
+  nameWithType: TimeOnly.ToLongTimeString
+- uid: System.TimeOnly.ToShortTimeString
+  name: ToShortTimeString()
+  href: api/System.TimeOnly.html#System_TimeOnly_ToShortTimeString
+  commentId: M:System.TimeOnly.ToShortTimeString
+  fullName: System.TimeOnly.ToShortTimeString()
+  nameWithType: TimeOnly.ToShortTimeString()
+- uid: System.TimeOnly.ToShortTimeString*
+  name: ToShortTimeString
+  href: api/System.TimeOnly.html#System_TimeOnly_ToShortTimeString_
+  commentId: Overload:System.TimeOnly.ToShortTimeString
+  isSpec: "True"
+  fullName: System.TimeOnly.ToShortTimeString
+  nameWithType: TimeOnly.ToShortTimeString
+- uid: System.TimeOnly.ToString
+  name: ToString()
+  href: api/System.TimeOnly.html#System_TimeOnly_ToString
+  commentId: M:System.TimeOnly.ToString
+  fullName: System.TimeOnly.ToString()
+  nameWithType: TimeOnly.ToString()
+- uid: System.TimeOnly.ToString(System.IFormatProvider)
+  name: ToString(IFormatProvider?)
+  href: api/System.TimeOnly.html#System_TimeOnly_ToString_System_IFormatProvider_
+  commentId: M:System.TimeOnly.ToString(System.IFormatProvider)
+  name.vb: ToString(IFormatProvider)
+  fullName: System.TimeOnly.ToString(System.IFormatProvider?)
+  fullName.vb: System.TimeOnly.ToString(System.IFormatProvider)
+  nameWithType: TimeOnly.ToString(IFormatProvider?)
+  nameWithType.vb: TimeOnly.ToString(IFormatProvider)
+- uid: System.TimeOnly.ToString(System.String)
+  name: ToString(string?)
+  href: api/System.TimeOnly.html#System_TimeOnly_ToString_System_String_
+  commentId: M:System.TimeOnly.ToString(System.String)
+  name.vb: ToString(String)
+  fullName: System.TimeOnly.ToString(string?)
+  fullName.vb: System.TimeOnly.ToString(String)
+  nameWithType: TimeOnly.ToString(string?)
+  nameWithType.vb: TimeOnly.ToString(String)
+- uid: System.TimeOnly.ToString(System.String,System.IFormatProvider)
+  name: ToString(string?, IFormatProvider?)
+  href: api/System.TimeOnly.html#System_TimeOnly_ToString_System_String_System_IFormatProvider_
+  commentId: M:System.TimeOnly.ToString(System.String,System.IFormatProvider)
+  name.vb: ToString(String, IFormatProvider)
+  fullName: System.TimeOnly.ToString(string?, System.IFormatProvider?)
+  fullName.vb: System.TimeOnly.ToString(String, System.IFormatProvider)
+  nameWithType: TimeOnly.ToString(string?, IFormatProvider?)
+  nameWithType.vb: TimeOnly.ToString(String, IFormatProvider)
+- uid: System.TimeOnly.ToString*
+  name: ToString
+  href: api/System.TimeOnly.html#System_TimeOnly_ToString_
+  commentId: Overload:System.TimeOnly.ToString
+  isSpec: "True"
+  fullName: System.TimeOnly.ToString
+  nameWithType: TimeOnly.ToString
+- uid: System.TimeOnly.ToTimeSpan
+  name: ToTimeSpan()
+  href: api/System.TimeOnly.html#System_TimeOnly_ToTimeSpan
+  commentId: M:System.TimeOnly.ToTimeSpan
+  fullName: System.TimeOnly.ToTimeSpan()
+  nameWithType: TimeOnly.ToTimeSpan()
+- uid: System.TimeOnly.ToTimeSpan*
+  name: ToTimeSpan
+  href: api/System.TimeOnly.html#System_TimeOnly_ToTimeSpan_
+  commentId: Overload:System.TimeOnly.ToTimeSpan
+  isSpec: "True"
+  fullName: System.TimeOnly.ToTimeSpan
+  nameWithType: TimeOnly.ToTimeSpan
+- uid: System.TimeOnly.op_Equality(System.TimeOnly,System.TimeOnly)
+  name: operator ==(TimeOnly, TimeOnly)
+  href: api/System.TimeOnly.html#System_TimeOnly_op_Equality_System_TimeOnly_System_TimeOnly_
+  commentId: M:System.TimeOnly.op_Equality(System.TimeOnly,System.TimeOnly)
+  name.vb: =(TimeOnly, TimeOnly)
+  fullName: System.TimeOnly.operator ==(System.TimeOnly, System.TimeOnly)
+  fullName.vb: System.TimeOnly.=(System.TimeOnly, System.TimeOnly)
+  nameWithType: TimeOnly.operator ==(TimeOnly, TimeOnly)
+  nameWithType.vb: TimeOnly.=(TimeOnly, TimeOnly)
+- uid: System.TimeOnly.op_Equality*
+  name: operator ==
+  href: api/System.TimeOnly.html#System_TimeOnly_op_Equality_
+  commentId: Overload:System.TimeOnly.op_Equality
+  isSpec: "True"
+  name.vb: =
+  fullName: System.TimeOnly.operator ==
+  fullName.vb: System.TimeOnly.=
+  nameWithType: TimeOnly.operator ==
+  nameWithType.vb: TimeOnly.=
+- uid: System.TimeOnly.op_GreaterThan(System.TimeOnly,System.TimeOnly)
+  name: operator >(TimeOnly, TimeOnly)
+  href: api/System.TimeOnly.html#System_TimeOnly_op_GreaterThan_System_TimeOnly_System_TimeOnly_
+  commentId: M:System.TimeOnly.op_GreaterThan(System.TimeOnly,System.TimeOnly)
+  name.vb: '>(TimeOnly, TimeOnly)'
+  fullName: System.TimeOnly.operator >(System.TimeOnly, System.TimeOnly)
+  fullName.vb: System.TimeOnly.>(System.TimeOnly, System.TimeOnly)
+  nameWithType: TimeOnly.operator >(TimeOnly, TimeOnly)
+  nameWithType.vb: TimeOnly.>(TimeOnly, TimeOnly)
+- uid: System.TimeOnly.op_GreaterThan*
+  name: operator >
+  href: api/System.TimeOnly.html#System_TimeOnly_op_GreaterThan_
+  commentId: Overload:System.TimeOnly.op_GreaterThan
+  isSpec: "True"
+  name.vb: '>'
+  fullName: System.TimeOnly.operator >
+  fullName.vb: System.TimeOnly.>
+  nameWithType: TimeOnly.operator >
+  nameWithType.vb: TimeOnly.>
+- uid: System.TimeOnly.op_GreaterThanOrEqual(System.TimeOnly,System.TimeOnly)
+  name: operator >=(TimeOnly, TimeOnly)
+  href: api/System.TimeOnly.html#System_TimeOnly_op_GreaterThanOrEqual_System_TimeOnly_System_TimeOnly_
+  commentId: M:System.TimeOnly.op_GreaterThanOrEqual(System.TimeOnly,System.TimeOnly)
+  name.vb: '>=(TimeOnly, TimeOnly)'
+  fullName: System.TimeOnly.operator >=(System.TimeOnly, System.TimeOnly)
+  fullName.vb: System.TimeOnly.>=(System.TimeOnly, System.TimeOnly)
+  nameWithType: TimeOnly.operator >=(TimeOnly, TimeOnly)
+  nameWithType.vb: TimeOnly.>=(TimeOnly, TimeOnly)
+- uid: System.TimeOnly.op_GreaterThanOrEqual*
+  name: operator >=
+  href: api/System.TimeOnly.html#System_TimeOnly_op_GreaterThanOrEqual_
+  commentId: Overload:System.TimeOnly.op_GreaterThanOrEqual
+  isSpec: "True"
+  name.vb: '>='
+  fullName: System.TimeOnly.operator >=
+  fullName.vb: System.TimeOnly.>=
+  nameWithType: TimeOnly.operator >=
+  nameWithType.vb: TimeOnly.>=
+- uid: System.TimeOnly.op_Inequality(System.TimeOnly,System.TimeOnly)
+  name: operator !=(TimeOnly, TimeOnly)
+  href: api/System.TimeOnly.html#System_TimeOnly_op_Inequality_System_TimeOnly_System_TimeOnly_
+  commentId: M:System.TimeOnly.op_Inequality(System.TimeOnly,System.TimeOnly)
+  name.vb: <>(TimeOnly, TimeOnly)
+  fullName: System.TimeOnly.operator !=(System.TimeOnly, System.TimeOnly)
+  fullName.vb: System.TimeOnly.<>(System.TimeOnly, System.TimeOnly)
+  nameWithType: TimeOnly.operator !=(TimeOnly, TimeOnly)
+  nameWithType.vb: TimeOnly.<>(TimeOnly, TimeOnly)
+- uid: System.TimeOnly.op_Inequality*
+  name: operator !=
+  href: api/System.TimeOnly.html#System_TimeOnly_op_Inequality_
+  commentId: Overload:System.TimeOnly.op_Inequality
+  isSpec: "True"
+  name.vb: <>
+  fullName: System.TimeOnly.operator !=
+  fullName.vb: System.TimeOnly.<>
+  nameWithType: TimeOnly.operator !=
+  nameWithType.vb: TimeOnly.<>
+- uid: System.TimeOnly.op_LessThan(System.TimeOnly,System.TimeOnly)
+  name: operator <(TimeOnly, TimeOnly)
+  href: api/System.TimeOnly.html#System_TimeOnly_op_LessThan_System_TimeOnly_System_TimeOnly_
+  commentId: M:System.TimeOnly.op_LessThan(System.TimeOnly,System.TimeOnly)
+  name.vb: <(TimeOnly, TimeOnly)
+  fullName: System.TimeOnly.operator <(System.TimeOnly, System.TimeOnly)
+  fullName.vb: System.TimeOnly.<(System.TimeOnly, System.TimeOnly)
+  nameWithType: TimeOnly.operator <(TimeOnly, TimeOnly)
+  nameWithType.vb: TimeOnly.<(TimeOnly, TimeOnly)
+- uid: System.TimeOnly.op_LessThan*
+  name: operator <
+  href: api/System.TimeOnly.html#System_TimeOnly_op_LessThan_
+  commentId: Overload:System.TimeOnly.op_LessThan
+  isSpec: "True"
+  name.vb: <
+  fullName: System.TimeOnly.operator <
+  fullName.vb: System.TimeOnly.<
+  nameWithType: TimeOnly.operator <
+  nameWithType.vb: TimeOnly.<
+- uid: System.TimeOnly.op_LessThanOrEqual(System.TimeOnly,System.TimeOnly)
+  name: operator <=(TimeOnly, TimeOnly)
+  href: api/System.TimeOnly.html#System_TimeOnly_op_LessThanOrEqual_System_TimeOnly_System_TimeOnly_
+  commentId: M:System.TimeOnly.op_LessThanOrEqual(System.TimeOnly,System.TimeOnly)
+  name.vb: <=(TimeOnly, TimeOnly)
+  fullName: System.TimeOnly.operator <=(System.TimeOnly, System.TimeOnly)
+  fullName.vb: System.TimeOnly.<=(System.TimeOnly, System.TimeOnly)
+  nameWithType: TimeOnly.operator <=(TimeOnly, TimeOnly)
+  nameWithType.vb: TimeOnly.<=(TimeOnly, TimeOnly)
+- uid: System.TimeOnly.op_LessThanOrEqual*
+  name: operator <=
+  href: api/System.TimeOnly.html#System_TimeOnly_op_LessThanOrEqual_
+  commentId: Overload:System.TimeOnly.op_LessThanOrEqual
+  isSpec: "True"
+  name.vb: <=
+  fullName: System.TimeOnly.operator <=
+  fullName.vb: System.TimeOnly.<=
+  nameWithType: TimeOnly.operator <=
+  nameWithType.vb: TimeOnly.<=
+- uid: System.TimeOnly.op_Subtraction(System.TimeOnly,System.TimeOnly)
+  name: operator -(TimeOnly, TimeOnly)
+  href: api/System.TimeOnly.html#System_TimeOnly_op_Subtraction_System_TimeOnly_System_TimeOnly_
+  commentId: M:System.TimeOnly.op_Subtraction(System.TimeOnly,System.TimeOnly)
+  name.vb: -(TimeOnly, TimeOnly)
+  fullName: System.TimeOnly.operator -(System.TimeOnly, System.TimeOnly)
+  fullName.vb: System.TimeOnly.-(System.TimeOnly, System.TimeOnly)
+  nameWithType: TimeOnly.operator -(TimeOnly, TimeOnly)
+  nameWithType.vb: TimeOnly.-(TimeOnly, TimeOnly)
+- uid: System.TimeOnly.op_Subtraction*
+  name: operator -
+  href: api/System.TimeOnly.html#System_TimeOnly_op_Subtraction_
+  commentId: Overload:System.TimeOnly.op_Subtraction
+  isSpec: "True"
+  name.vb: '-'
+  fullName: System.TimeOnly.operator -
+  fullName.vb: System.TimeOnly.-
+  nameWithType: TimeOnly.operator -
+  nameWithType.vb: TimeOnly.-
+- uid: UnityClock
+  name: UnityClock
+  href: api/UnityClock.html
+  commentId: N:UnityClock
+  fullName: UnityClock
+  nameWithType: UnityClock
+- uid: UnityClock.AnimationClipCycle
+  name: AnimationClipCycle
+  href: api/UnityClock.AnimationClipCycle.html
+  commentId: T:UnityClock.AnimationClipCycle
+  fullName: UnityClock.AnimationClipCycle
+  nameWithType: AnimationClipCycle
+- uid: UnityClock.AnimationClipCycle.Create(PlayableGraph,UnityClock.AnimationClipCycle)
+  name: Create(PlayableGraph, AnimationClipCycle)
+  href: api/UnityClock.AnimationClipCycle.html#UnityClock_AnimationClipCycle_Create_PlayableGraph_UnityClock_AnimationClipCycle_
+  commentId: M:UnityClock.AnimationClipCycle.Create(PlayableGraph,UnityClock.AnimationClipCycle)
+  fullName: UnityClock.AnimationClipCycle.Create(PlayableGraph, UnityClock.AnimationClipCycle)
+  nameWithType: AnimationClipCycle.Create(PlayableGraph, AnimationClipCycle)
+- uid: UnityClock.AnimationClipCycle.Create*
+  name: Create
+  href: api/UnityClock.AnimationClipCycle.html#UnityClock_AnimationClipCycle_Create_
+  commentId: Overload:UnityClock.AnimationClipCycle.Create
+  isSpec: "True"
+  fullName: UnityClock.AnimationClipCycle.Create
+  nameWithType: AnimationClipCycle.Create
+- uid: UnityClock.AnimationClipCycle.clip
+  name: clip
+  href: api/UnityClock.AnimationClipCycle.html#UnityClock_AnimationClipCycle_clip
+  commentId: P:UnityClock.AnimationClipCycle.clip
+  fullName: UnityClock.AnimationClipCycle.clip
+  nameWithType: AnimationClipCycle.clip
+- uid: UnityClock.AnimationClipCycle.clip*
+  name: clip
+  href: api/UnityClock.AnimationClipCycle.html#UnityClock_AnimationClipCycle_clip_
+  commentId: Overload:UnityClock.AnimationClipCycle.clip
+  isSpec: "True"
+  fullName: UnityClock.AnimationClipCycle.clip
+  nameWithType: AnimationClipCycle.clip
+- uid: UnityClock.AnimationClipCycle.duration
+  name: duration
+  href: api/UnityClock.AnimationClipCycle.html#UnityClock_AnimationClipCycle_duration
+  commentId: P:UnityClock.AnimationClipCycle.duration
+  fullName: UnityClock.AnimationClipCycle.duration
+  nameWithType: AnimationClipCycle.duration
+- uid: UnityClock.AnimationClipCycle.duration*
+  name: duration
+  href: api/UnityClock.AnimationClipCycle.html#UnityClock_AnimationClipCycle_duration_
+  commentId: Overload:UnityClock.AnimationClipCycle.duration
+  isSpec: "True"
+  fullName: UnityClock.AnimationClipCycle.duration
+  nameWithType: AnimationClipCycle.duration
+- uid: UnityClock.AnimationClipCycle.loops
+  name: loops
+  href: api/UnityClock.AnimationClipCycle.html#UnityClock_AnimationClipCycle_loops
+  commentId: P:UnityClock.AnimationClipCycle.loops
+  fullName: UnityClock.AnimationClipCycle.loops
+  nameWithType: AnimationClipCycle.loops
+- uid: UnityClock.AnimationClipCycle.loops*
+  name: loops
+  href: api/UnityClock.AnimationClipCycle.html#UnityClock_AnimationClipCycle_loops_
+  commentId: Overload:UnityClock.AnimationClipCycle.loops
+  isSpec: "True"
+  fullName: UnityClock.AnimationClipCycle.loops
+  nameWithType: AnimationClipCycle.loops
+- uid: UnityClock.AnimationClipCycle.start
+  name: start
+  href: api/UnityClock.AnimationClipCycle.html#UnityClock_AnimationClipCycle_start
+  commentId: P:UnityClock.AnimationClipCycle.start
+  fullName: UnityClock.AnimationClipCycle.start
+  nameWithType: AnimationClipCycle.start
+- uid: UnityClock.AnimationClipCycle.start*
+  name: start
+  href: api/UnityClock.AnimationClipCycle.html#UnityClock_AnimationClipCycle_start_
+  commentId: Overload:UnityClock.AnimationClipCycle.start
+  isSpec: "True"
+  fullName: UnityClock.AnimationClipCycle.start
+  nameWithType: AnimationClipCycle.start
+- uid: UnityClock.Clock
+  name: Clock
+  href: api/UnityClock.Clock.html
+  commentId: T:UnityClock.Clock
+  fullName: UnityClock.Clock
+  nameWithType: Clock
+- uid: UnityClock.Clock.Day(System.TimeOnly)
+  name: Day(TimeOnly)
+  href: api/UnityClock.Clock.html#UnityClock_Clock_Day_System_TimeOnly_
+  commentId: M:UnityClock.Clock.Day(System.TimeOnly)
+  fullName: UnityClock.Clock.Day(System.TimeOnly)
+  nameWithType: Clock.Day(TimeOnly)
+- uid: UnityClock.Clock.Day*
+  name: Day
+  href: api/UnityClock.Clock.html#UnityClock_Clock_Day_
+  commentId: Overload:UnityClock.Clock.Day
+  isSpec: "True"
+  fullName: UnityClock.Clock.Day
+  nameWithType: Clock.Day
+- uid: UnityClock.Clock.InverseLerp(System.TimeOnly,System.TimeOnly)
+  name: InverseLerp(TimeOnly, TimeOnly)
+  href: api/UnityClock.Clock.html#UnityClock_Clock_InverseLerp_System_TimeOnly_System_TimeOnly_
+  commentId: M:UnityClock.Clock.InverseLerp(System.TimeOnly,System.TimeOnly)
+  fullName: UnityClock.Clock.InverseLerp(System.TimeOnly, System.TimeOnly)
+  nameWithType: Clock.InverseLerp(TimeOnly, TimeOnly)
+- uid: UnityClock.Clock.InverseLerp(System.TimeOnly,System.TimeOnly,System.TimeOnly)
+  name: InverseLerp(TimeOnly, TimeOnly, TimeOnly)
+  href: api/UnityClock.Clock.html#UnityClock_Clock_InverseLerp_System_TimeOnly_System_TimeOnly_System_TimeOnly_
+  commentId: M:UnityClock.Clock.InverseLerp(System.TimeOnly,System.TimeOnly,System.TimeOnly)
+  fullName: UnityClock.Clock.InverseLerp(System.TimeOnly, System.TimeOnly, System.TimeOnly)
+  nameWithType: Clock.InverseLerp(TimeOnly, TimeOnly, TimeOnly)
+- uid: UnityClock.Clock.InverseLerp(System.TimeSpan,System.TimeSpan,System.TimeSpan)
+  name: InverseLerp(TimeSpan, TimeSpan, TimeSpan)
+  href: api/UnityClock.Clock.html#UnityClock_Clock_InverseLerp_System_TimeSpan_System_TimeSpan_System_TimeSpan_
+  commentId: M:UnityClock.Clock.InverseLerp(System.TimeSpan,System.TimeSpan,System.TimeSpan)
+  fullName: UnityClock.Clock.InverseLerp(System.TimeSpan, System.TimeSpan, System.TimeSpan)
+  nameWithType: Clock.InverseLerp(TimeSpan, TimeSpan, TimeSpan)
+- uid: UnityClock.Clock.InverseLerp*
+  name: InverseLerp
+  href: api/UnityClock.Clock.html#UnityClock_Clock_InverseLerp_
+  commentId: Overload:UnityClock.Clock.InverseLerp
+  isSpec: "True"
+  fullName: UnityClock.Clock.InverseLerp
+  nameWithType: Clock.InverseLerp
+- uid: UnityClock.Clock.Lerp(System.TimeOnly,System.TimeOnly,System.Single)
+  name: Lerp(TimeOnly, TimeOnly, float)
+  href: api/UnityClock.Clock.html#UnityClock_Clock_Lerp_System_TimeOnly_System_TimeOnly_System_Single_
+  commentId: M:UnityClock.Clock.Lerp(System.TimeOnly,System.TimeOnly,System.Single)
+  name.vb: Lerp(TimeOnly, TimeOnly, Single)
+  fullName: UnityClock.Clock.Lerp(System.TimeOnly, System.TimeOnly, float)
+  fullName.vb: UnityClock.Clock.Lerp(System.TimeOnly, System.TimeOnly, Single)
+  nameWithType: Clock.Lerp(TimeOnly, TimeOnly, float)
+  nameWithType.vb: Clock.Lerp(TimeOnly, TimeOnly, Single)
+- uid: UnityClock.Clock.Lerp(System.TimeSpan,System.TimeSpan,System.Single)
+  name: Lerp(TimeSpan, TimeSpan, float)
+  href: api/UnityClock.Clock.html#UnityClock_Clock_Lerp_System_TimeSpan_System_TimeSpan_System_Single_
+  commentId: M:UnityClock.Clock.Lerp(System.TimeSpan,System.TimeSpan,System.Single)
+  name.vb: Lerp(TimeSpan, TimeSpan, Single)
+  fullName: UnityClock.Clock.Lerp(System.TimeSpan, System.TimeSpan, float)
+  fullName.vb: UnityClock.Clock.Lerp(System.TimeSpan, System.TimeSpan, Single)
+  nameWithType: Clock.Lerp(TimeSpan, TimeSpan, float)
+  nameWithType.vb: Clock.Lerp(TimeSpan, TimeSpan, Single)
+- uid: UnityClock.Clock.Lerp*
+  name: Lerp
+  href: api/UnityClock.Clock.html#UnityClock_Clock_Lerp_
+  commentId: Overload:UnityClock.Clock.Lerp
+  isSpec: "True"
+  fullName: UnityClock.Clock.Lerp
+  nameWithType: Clock.Lerp
+- uid: UnityClock.Clock.LerpUnclamped(System.TimeOnly,System.TimeOnly,System.Single)
+  name: LerpUnclamped(TimeOnly, TimeOnly, float)
+  href: api/UnityClock.Clock.html#UnityClock_Clock_LerpUnclamped_System_TimeOnly_System_TimeOnly_System_Single_
+  commentId: M:UnityClock.Clock.LerpUnclamped(System.TimeOnly,System.TimeOnly,System.Single)
+  name.vb: LerpUnclamped(TimeOnly, TimeOnly, Single)
+  fullName: UnityClock.Clock.LerpUnclamped(System.TimeOnly, System.TimeOnly, float)
+  fullName.vb: UnityClock.Clock.LerpUnclamped(System.TimeOnly, System.TimeOnly, Single)
+  nameWithType: Clock.LerpUnclamped(TimeOnly, TimeOnly, float)
+  nameWithType.vb: Clock.LerpUnclamped(TimeOnly, TimeOnly, Single)
+- uid: UnityClock.Clock.LerpUnclamped(System.TimeSpan,System.TimeSpan,System.Single)
+  name: LerpUnclamped(TimeSpan, TimeSpan, float)
+  href: api/UnityClock.Clock.html#UnityClock_Clock_LerpUnclamped_System_TimeSpan_System_TimeSpan_System_Single_
+  commentId: M:UnityClock.Clock.LerpUnclamped(System.TimeSpan,System.TimeSpan,System.Single)
+  name.vb: LerpUnclamped(TimeSpan, TimeSpan, Single)
+  fullName: UnityClock.Clock.LerpUnclamped(System.TimeSpan, System.TimeSpan, float)
+  fullName.vb: UnityClock.Clock.LerpUnclamped(System.TimeSpan, System.TimeSpan, Single)
+  nameWithType: Clock.LerpUnclamped(TimeSpan, TimeSpan, float)
+  nameWithType.vb: Clock.LerpUnclamped(TimeSpan, TimeSpan, Single)
+- uid: UnityClock.Clock.LerpUnclamped*
+  name: LerpUnclamped
+  href: api/UnityClock.Clock.html#UnityClock_Clock_LerpUnclamped_
+  commentId: Overload:UnityClock.Clock.LerpUnclamped
+  isSpec: "True"
+  fullName: UnityClock.Clock.LerpUnclamped
+  nameWithType: Clock.LerpUnclamped
+- uid: UnityClock.Clock.Midday(System.TimeOnly)
+  name: Midday(TimeOnly)
+  href: api/UnityClock.Clock.html#UnityClock_Clock_Midday_System_TimeOnly_
+  commentId: M:UnityClock.Clock.Midday(System.TimeOnly)
+  fullName: UnityClock.Clock.Midday(System.TimeOnly)
+  nameWithType: Clock.Midday(TimeOnly)
+- uid: UnityClock.Clock.Midday*
+  name: Midday
+  href: api/UnityClock.Clock.html#UnityClock_Clock_Midday_
+  commentId: Overload:UnityClock.Clock.Midday
+  isSpec: "True"
+  fullName: UnityClock.Clock.Midday
+  nameWithType: Clock.Midday
+- uid: UnityClock.Clock.SetTimeWithoutNotify(System.TimeOnly)
+  name: SetTimeWithoutNotify(TimeOnly)
+  href: api/UnityClock.Clock.html#UnityClock_Clock_SetTimeWithoutNotify_System_TimeOnly_
+  commentId: M:UnityClock.Clock.SetTimeWithoutNotify(System.TimeOnly)
+  fullName: UnityClock.Clock.SetTimeWithoutNotify(System.TimeOnly)
+  nameWithType: Clock.SetTimeWithoutNotify(TimeOnly)
+- uid: UnityClock.Clock.SetTimeWithoutNotify*
+  name: SetTimeWithoutNotify
+  href: api/UnityClock.Clock.html#UnityClock_Clock_SetTimeWithoutNotify_
+  commentId: Overload:UnityClock.Clock.SetTimeWithoutNotify
+  isSpec: "True"
+  fullName: UnityClock.Clock.SetTimeWithoutNotify
+  nameWithType: Clock.SetTimeWithoutNotify
+- uid: UnityClock.Clock.dayMultiplier
+  name: dayMultiplier
+  href: api/UnityClock.Clock.html#UnityClock_Clock_dayMultiplier
+  commentId: F:UnityClock.Clock.dayMultiplier
+  fullName: UnityClock.Clock.dayMultiplier
+  nameWithType: Clock.dayMultiplier
+- uid: UnityClock.Clock.daySpan
+  name: daySpan
+  href: api/UnityClock.Clock.html#UnityClock_Clock_daySpan
+  commentId: P:UnityClock.Clock.daySpan
+  fullName: UnityClock.Clock.daySpan
+  nameWithType: Clock.daySpan
+- uid: UnityClock.Clock.daySpan*
+  name: daySpan
+  href: api/UnityClock.Clock.html#UnityClock_Clock_daySpan_
+  commentId: Overload:UnityClock.Clock.daySpan
+  isSpec: "True"
+  fullName: UnityClock.Clock.daySpan
+  nameWithType: Clock.daySpan
+- uid: UnityClock.Clock.playableGraph
+  name: playableGraph
+  href: api/UnityClock.Clock.html#UnityClock_Clock_playableGraph
+  commentId: P:UnityClock.Clock.playableGraph
+  fullName: UnityClock.Clock.playableGraph
+  nameWithType: Clock.playableGraph
+- uid: UnityClock.Clock.playableGraph*
+  name: playableGraph
+  href: api/UnityClock.Clock.html#UnityClock_Clock_playableGraph_
+  commentId: Overload:UnityClock.Clock.playableGraph
+  isSpec: "True"
+  fullName: UnityClock.Clock.playableGraph
+  nameWithType: Clock.playableGraph
+- uid: UnityClock.Clock.time
+  name: time
+  href: api/UnityClock.Clock.html#UnityClock_Clock_time
+  commentId: P:UnityClock.Clock.time
+  fullName: UnityClock.Clock.time
+  nameWithType: Clock.time
+- uid: UnityClock.Clock.time*
+  name: time
+  href: api/UnityClock.Clock.html#UnityClock_Clock_time_
+  commentId: Overload:UnityClock.Clock.time
+  isSpec: "True"
+  fullName: UnityClock.Clock.time
+  nameWithType: Clock.time
+- uid: UnityClock.ClockInstance
+  name: ClockInstance
+  href: api/UnityClock.ClockInstance.html
+  commentId: T:UnityClock.ClockInstance
+  fullName: UnityClock.ClockInstance
+  nameWithType: ClockInstance
+- uid: UnityClock.ClockInstance.SetState
+  name: SetState()
+  href: api/UnityClock.ClockInstance.html#UnityClock_ClockInstance_SetState
+  commentId: M:UnityClock.ClockInstance.SetState
+  fullName: UnityClock.ClockInstance.SetState()
+  nameWithType: ClockInstance.SetState()
+- uid: UnityClock.ClockInstance.SetState*
+  name: SetState
+  href: api/UnityClock.ClockInstance.html#UnityClock_ClockInstance_SetState_
+  commentId: Overload:UnityClock.ClockInstance.SetState
+  isSpec: "True"
+  fullName: UnityClock.ClockInstance.SetState
+  nameWithType: ClockInstance.SetState
+- uid: UnityClock.ClockInstance.daySpan
+  name: daySpan
+  href: api/UnityClock.ClockInstance.html#UnityClock_ClockInstance_daySpan
+  commentId: P:UnityClock.ClockInstance.daySpan
+  fullName: UnityClock.ClockInstance.daySpan
+  nameWithType: ClockInstance.daySpan
+- uid: UnityClock.ClockInstance.daySpan*
+  name: daySpan
+  href: api/UnityClock.ClockInstance.html#UnityClock_ClockInstance_daySpan_
+  commentId: Overload:UnityClock.ClockInstance.daySpan
+  isSpec: "True"
+  fullName: UnityClock.ClockInstance.daySpan
+  nameWithType: ClockInstance.daySpan
+- uid: UnityClock.ClockInstance.time
+  name: time
+  href: api/UnityClock.ClockInstance.html#UnityClock_ClockInstance_time
+  commentId: P:UnityClock.ClockInstance.time
+  fullName: UnityClock.ClockInstance.time
+  nameWithType: ClockInstance.time
+- uid: UnityClock.ClockInstance.time*
+  name: time
+  href: api/UnityClock.ClockInstance.html#UnityClock_ClockInstance_time_
+  commentId: Overload:UnityClock.ClockInstance.time
+  isSpec: "True"
+  fullName: UnityClock.ClockInstance.time
+  nameWithType: ClockInstance.time
+- uid: UnityClock.CycleAnimator
+  name: CycleAnimator
+  href: api/UnityClock.CycleAnimator.html
+  commentId: T:UnityClock.CycleAnimator
+  fullName: UnityClock.CycleAnimator
+  nameWithType: CycleAnimator
+- uid: UnityClock.CycleAnimator.Add(UnityClock.AnimationClipCycle)
+  name: Add(AnimationClipCycle)
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_Add_UnityClock_AnimationClipCycle_
+  commentId: M:UnityClock.CycleAnimator.Add(UnityClock.AnimationClipCycle)
+  fullName: UnityClock.CycleAnimator.Add(UnityClock.AnimationClipCycle)
+  nameWithType: CycleAnimator.Add(AnimationClipCycle)
+- uid: UnityClock.CycleAnimator.Add*
+  name: Add
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_Add_
+  commentId: Overload:UnityClock.CycleAnimator.Add
+  isSpec: "True"
+  fullName: UnityClock.CycleAnimator.Add
+  nameWithType: CycleAnimator.Add
+- uid: UnityClock.CycleAnimator.Clear
+  name: Clear()
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_Clear
+  commentId: M:UnityClock.CycleAnimator.Clear
+  fullName: UnityClock.CycleAnimator.Clear()
+  nameWithType: CycleAnimator.Clear()
+- uid: UnityClock.CycleAnimator.Clear*
+  name: Clear
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_Clear_
+  commentId: Overload:UnityClock.CycleAnimator.Clear
+  isSpec: "True"
+  fullName: UnityClock.CycleAnimator.Clear
+  nameWithType: CycleAnimator.Clear
+- uid: UnityClock.CycleAnimator.Contains(UnityClock.AnimationClipCycle)
+  name: Contains(AnimationClipCycle)
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_Contains_UnityClock_AnimationClipCycle_
+  commentId: M:UnityClock.CycleAnimator.Contains(UnityClock.AnimationClipCycle)
+  fullName: UnityClock.CycleAnimator.Contains(UnityClock.AnimationClipCycle)
+  nameWithType: CycleAnimator.Contains(AnimationClipCycle)
+- uid: UnityClock.CycleAnimator.Contains*
+  name: Contains
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_Contains_
+  commentId: Overload:UnityClock.CycleAnimator.Contains
+  isSpec: "True"
+  fullName: UnityClock.CycleAnimator.Contains
+  nameWithType: CycleAnimator.Contains
+- uid: UnityClock.CycleAnimator.CopyTo(UnityClock.AnimationClipCycle[],System.Int32)
+  name: CopyTo(AnimationClipCycle[], int)
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_CopyTo_UnityClock_AnimationClipCycle___System_Int32_
+  commentId: M:UnityClock.CycleAnimator.CopyTo(UnityClock.AnimationClipCycle[],System.Int32)
+  name.vb: CopyTo(AnimationClipCycle(), Integer)
+  fullName: UnityClock.CycleAnimator.CopyTo(UnityClock.AnimationClipCycle[], int)
+  fullName.vb: UnityClock.CycleAnimator.CopyTo(UnityClock.AnimationClipCycle(), Integer)
+  nameWithType: CycleAnimator.CopyTo(AnimationClipCycle[], int)
+  nameWithType.vb: CycleAnimator.CopyTo(AnimationClipCycle(), Integer)
+- uid: UnityClock.CycleAnimator.CopyTo*
+  name: CopyTo
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_CopyTo_
+  commentId: Overload:UnityClock.CycleAnimator.CopyTo
+  isSpec: "True"
+  fullName: UnityClock.CycleAnimator.CopyTo
+  nameWithType: CycleAnimator.CopyTo
+- uid: UnityClock.CycleAnimator.Count
+  name: Count
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_Count
+  commentId: P:UnityClock.CycleAnimator.Count
+  fullName: UnityClock.CycleAnimator.Count
+  nameWithType: CycleAnimator.Count
+- uid: UnityClock.CycleAnimator.Count*
+  name: Count
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_Count_
+  commentId: Overload:UnityClock.CycleAnimator.Count
+  isSpec: "True"
+  fullName: UnityClock.CycleAnimator.Count
+  nameWithType: CycleAnimator.Count
+- uid: UnityClock.CycleAnimator.GetEnumerator
+  name: GetEnumerator()
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_GetEnumerator
+  commentId: M:UnityClock.CycleAnimator.GetEnumerator
+  fullName: UnityClock.CycleAnimator.GetEnumerator()
+  nameWithType: CycleAnimator.GetEnumerator()
+- uid: UnityClock.CycleAnimator.GetEnumerator*
+  name: GetEnumerator
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_GetEnumerator_
+  commentId: Overload:UnityClock.CycleAnimator.GetEnumerator
+  isSpec: "True"
+  fullName: UnityClock.CycleAnimator.GetEnumerator
+  nameWithType: CycleAnimator.GetEnumerator
+- uid: UnityClock.CycleAnimator.IndexOf(UnityClock.AnimationClipCycle)
+  name: IndexOf(AnimationClipCycle)
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_IndexOf_UnityClock_AnimationClipCycle_
+  commentId: M:UnityClock.CycleAnimator.IndexOf(UnityClock.AnimationClipCycle)
+  fullName: UnityClock.CycleAnimator.IndexOf(UnityClock.AnimationClipCycle)
+  nameWithType: CycleAnimator.IndexOf(AnimationClipCycle)
+- uid: UnityClock.CycleAnimator.IndexOf*
+  name: IndexOf
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_IndexOf_
+  commentId: Overload:UnityClock.CycleAnimator.IndexOf
+  isSpec: "True"
+  fullName: UnityClock.CycleAnimator.IndexOf
+  nameWithType: CycleAnimator.IndexOf
+- uid: UnityClock.CycleAnimator.Insert(System.Int32,UnityClock.AnimationClipCycle)
+  name: Insert(int, AnimationClipCycle)
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_Insert_System_Int32_UnityClock_AnimationClipCycle_
+  commentId: M:UnityClock.CycleAnimator.Insert(System.Int32,UnityClock.AnimationClipCycle)
+  name.vb: Insert(Integer, AnimationClipCycle)
+  fullName: UnityClock.CycleAnimator.Insert(int, UnityClock.AnimationClipCycle)
+  fullName.vb: UnityClock.CycleAnimator.Insert(Integer, UnityClock.AnimationClipCycle)
+  nameWithType: CycleAnimator.Insert(int, AnimationClipCycle)
+  nameWithType.vb: CycleAnimator.Insert(Integer, AnimationClipCycle)
+- uid: UnityClock.CycleAnimator.Insert*
+  name: Insert
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_Insert_
+  commentId: Overload:UnityClock.CycleAnimator.Insert
+  isSpec: "True"
+  fullName: UnityClock.CycleAnimator.Insert
+  nameWithType: CycleAnimator.Insert
+- uid: UnityClock.CycleAnimator.Item(System.Int32)
+  name: this[int]
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_Item_System_Int32_
+  commentId: P:UnityClock.CycleAnimator.Item(System.Int32)
+  name.vb: this[](Integer)
+  fullName: UnityClock.CycleAnimator.this[int]
+  fullName.vb: UnityClock.CycleAnimator.this[](Integer)
+  nameWithType: CycleAnimator.this[int]
+  nameWithType.vb: CycleAnimator.this[](Integer)
+- uid: UnityClock.CycleAnimator.Item*
+  name: this
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_Item_
+  commentId: Overload:UnityClock.CycleAnimator.Item
+  isSpec: "True"
+  name.vb: this[]
+  fullName: UnityClock.CycleAnimator.this
+  fullName.vb: UnityClock.CycleAnimator.this[]
+  nameWithType: CycleAnimator.this
+  nameWithType.vb: CycleAnimator.this[]
+- uid: UnityClock.CycleAnimator.Remove(UnityClock.AnimationClipCycle)
+  name: Remove(AnimationClipCycle)
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_Remove_UnityClock_AnimationClipCycle_
+  commentId: M:UnityClock.CycleAnimator.Remove(UnityClock.AnimationClipCycle)
+  fullName: UnityClock.CycleAnimator.Remove(UnityClock.AnimationClipCycle)
+  nameWithType: CycleAnimator.Remove(AnimationClipCycle)
+- uid: UnityClock.CycleAnimator.Remove*
+  name: Remove
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_Remove_
+  commentId: Overload:UnityClock.CycleAnimator.Remove
+  isSpec: "True"
+  fullName: UnityClock.CycleAnimator.Remove
+  nameWithType: CycleAnimator.Remove
+- uid: UnityClock.CycleAnimator.RemoveAt(System.Int32)
+  name: RemoveAt(int)
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_RemoveAt_System_Int32_
+  commentId: M:UnityClock.CycleAnimator.RemoveAt(System.Int32)
+  name.vb: RemoveAt(Integer)
+  fullName: UnityClock.CycleAnimator.RemoveAt(int)
+  fullName.vb: UnityClock.CycleAnimator.RemoveAt(Integer)
+  nameWithType: CycleAnimator.RemoveAt(int)
+  nameWithType.vb: CycleAnimator.RemoveAt(Integer)
+- uid: UnityClock.CycleAnimator.RemoveAt*
+  name: RemoveAt
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_RemoveAt_
+  commentId: Overload:UnityClock.CycleAnimator.RemoveAt
+  isSpec: "True"
+  fullName: UnityClock.CycleAnimator.RemoveAt
+  nameWithType: CycleAnimator.RemoveAt
+- uid: UnityClock.CycleAnimator.animator
+  name: animator
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_animator
+  commentId: P:UnityClock.CycleAnimator.animator
+  fullName: UnityClock.CycleAnimator.animator
+  nameWithType: CycleAnimator.animator
+- uid: UnityClock.CycleAnimator.animator*
+  name: animator
+  href: api/UnityClock.CycleAnimator.html#UnityClock_CycleAnimator_animator_
+  commentId: Overload:UnityClock.CycleAnimator.animator
+  isSpec: "True"
+  fullName: UnityClock.CycleAnimator.animator
+  nameWithType: CycleAnimator.animator
+- uid: UnityClock.CyclePlayableExtensions
+  name: CyclePlayableExtensions
+  href: api/UnityClock.CyclePlayableExtensions.html
+  commentId: T:UnityClock.CyclePlayableExtensions
+  fullName: UnityClock.CyclePlayableExtensions
+  nameWithType: CyclePlayableExtensions
+- uid: UnityClock.CyclePlayableExtensions.DestroyCycle*
+  name: DestroyCycle
+  href: api/UnityClock.CyclePlayableExtensions.html#UnityClock_CyclePlayableExtensions_DestroyCycle_
+  commentId: Overload:UnityClock.CyclePlayableExtensions.DestroyCycle
+  isSpec: "True"
+  fullName: UnityClock.CyclePlayableExtensions.DestroyCycle
+  nameWithType: CyclePlayableExtensions.DestroyCycle
+- uid: UnityClock.CyclePlayableExtensions.DestroyCycle``1(``0)
+  name: DestroyCycle<U>(U)
+  href: api/UnityClock.CyclePlayableExtensions.html#UnityClock_CyclePlayableExtensions_DestroyCycle__1___0_
+  commentId: M:UnityClock.CyclePlayableExtensions.DestroyCycle``1(``0)
+  name.vb: DestroyCycle(Of U)(U)
+  fullName: UnityClock.CyclePlayableExtensions.DestroyCycle<U>(U)
+  fullName.vb: UnityClock.CyclePlayableExtensions.DestroyCycle(Of U)(U)
+  nameWithType: CyclePlayableExtensions.DestroyCycle<U>(U)
+  nameWithType.vb: CyclePlayableExtensions.DestroyCycle(Of U)(U)
+- uid: UnityClock.CyclePlayableExtensions.SetCycle*
+  name: SetCycle
+  href: api/UnityClock.CyclePlayableExtensions.html#UnityClock_CyclePlayableExtensions_SetCycle_
+  commentId: Overload:UnityClock.CyclePlayableExtensions.SetCycle
+  isSpec: "True"
+  fullName: UnityClock.CyclePlayableExtensions.SetCycle
+  nameWithType: CyclePlayableExtensions.SetCycle
+- uid: UnityClock.CyclePlayableExtensions.SetCycle``1(``0,UnityClock.ICycle,System.Single)
+  name: SetCycle<U>(U, ICycle, float)
+  href: api/UnityClock.CyclePlayableExtensions.html#UnityClock_CyclePlayableExtensions_SetCycle__1___0_UnityClock_ICycle_System_Single_
+  commentId: M:UnityClock.CyclePlayableExtensions.SetCycle``1(``0,UnityClock.ICycle,System.Single)
+  name.vb: SetCycle(Of U)(U, ICycle, Single)
+  fullName: UnityClock.CyclePlayableExtensions.SetCycle<U>(U, UnityClock.ICycle, float)
+  fullName.vb: UnityClock.CyclePlayableExtensions.SetCycle(Of U)(U, UnityClock.ICycle, Single)
+  nameWithType: CyclePlayableExtensions.SetCycle<U>(U, ICycle, float)
+  nameWithType.vb: CyclePlayableExtensions.SetCycle(Of U)(U, ICycle, Single)
+- uid: UnityClock.CyclePlayableExtensions.SyncCycle*
+  name: SyncCycle
+  href: api/UnityClock.CyclePlayableExtensions.html#UnityClock_CyclePlayableExtensions_SyncCycle_
+  commentId: Overload:UnityClock.CyclePlayableExtensions.SyncCycle
+  isSpec: "True"
+  fullName: UnityClock.CyclePlayableExtensions.SyncCycle
+  nameWithType: CyclePlayableExtensions.SyncCycle
+- uid: UnityClock.CyclePlayableExtensions.SyncCycle``1(``0)
+  name: SyncCycle<U>(U)
+  href: api/UnityClock.CyclePlayableExtensions.html#UnityClock_CyclePlayableExtensions_SyncCycle__1___0_
+  commentId: M:UnityClock.CyclePlayableExtensions.SyncCycle``1(``0)
+  name.vb: SyncCycle(Of U)(U)
+  fullName: UnityClock.CyclePlayableExtensions.SyncCycle<U>(U)
+  fullName.vb: UnityClock.CyclePlayableExtensions.SyncCycle(Of U)(U)
+  nameWithType: CyclePlayableExtensions.SyncCycle<U>(U)
+  nameWithType.vb: CyclePlayableExtensions.SyncCycle(Of U)(U)
+- uid: UnityClock.Editor
+  name: UnityClock.Editor
+  href: api/UnityClock.Editor.html
+  commentId: N:UnityClock.Editor
+  fullName: UnityClock.Editor
+  nameWithType: UnityClock.Editor
+- uid: UnityClock.Editor.ClockPreviewControl
+  name: ClockPreviewControl
+  href: api/UnityClock.Editor.ClockPreviewControl.html
+  commentId: T:UnityClock.Editor.ClockPreviewControl
+  fullName: UnityClock.Editor.ClockPreviewControl
+  nameWithType: ClockPreviewControl
+- uid: UnityClock.Editor.ClockPreviewControl.OnCreate
+  name: OnCreate()
+  href: api/UnityClock.Editor.ClockPreviewControl.html#UnityClock_Editor_ClockPreviewControl_OnCreate
+  commentId: M:UnityClock.Editor.ClockPreviewControl.OnCreate
+  fullName: UnityClock.Editor.ClockPreviewControl.OnCreate()
+  nameWithType: ClockPreviewControl.OnCreate()
+- uid: UnityClock.Editor.ClockPreviewControl.OnCreate*
+  name: OnCreate
+  href: api/UnityClock.Editor.ClockPreviewControl.html#UnityClock_Editor_ClockPreviewControl_OnCreate_
+  commentId: Overload:UnityClock.Editor.ClockPreviewControl.OnCreate
+  isSpec: "True"
+  fullName: UnityClock.Editor.ClockPreviewControl.OnCreate
+  nameWithType: ClockPreviewControl.OnCreate
+- uid: UnityClock.Editor.ClockPreviewControl.OnDestroy
+  name: OnDestroy()
+  href: api/UnityClock.Editor.ClockPreviewControl.html#UnityClock_Editor_ClockPreviewControl_OnDestroy
+  commentId: M:UnityClock.Editor.ClockPreviewControl.OnDestroy
+  fullName: UnityClock.Editor.ClockPreviewControl.OnDestroy()
+  nameWithType: ClockPreviewControl.OnDestroy()
+- uid: UnityClock.Editor.ClockPreviewControl.OnDestroy*
+  name: OnDestroy
+  href: api/UnityClock.Editor.ClockPreviewControl.html#UnityClock_Editor_ClockPreviewControl_OnDestroy_
+  commentId: Overload:UnityClock.Editor.ClockPreviewControl.OnDestroy
+  isSpec: "True"
+  fullName: UnityClock.Editor.ClockPreviewControl.OnDestroy
+  nameWithType: ClockPreviewControl.OnDestroy
+- uid: UnityClock.Editor.ClockPreviewControl.StartPreview
+  name: StartPreview()
+  href: api/UnityClock.Editor.ClockPreviewControl.html#UnityClock_Editor_ClockPreviewControl_StartPreview
+  commentId: M:UnityClock.Editor.ClockPreviewControl.StartPreview
+  fullName: UnityClock.Editor.ClockPreviewControl.StartPreview()
+  nameWithType: ClockPreviewControl.StartPreview()
+- uid: UnityClock.Editor.ClockPreviewControl.StartPreview*
+  name: StartPreview
+  href: api/UnityClock.Editor.ClockPreviewControl.html#UnityClock_Editor_ClockPreviewControl_StartPreview_
+  commentId: Overload:UnityClock.Editor.ClockPreviewControl.StartPreview
+  isSpec: "True"
+  fullName: UnityClock.Editor.ClockPreviewControl.StartPreview
+  nameWithType: ClockPreviewControl.StartPreview
+- uid: UnityClock.Editor.ClockPreviewControl.StopPreview
+  name: StopPreview()
+  href: api/UnityClock.Editor.ClockPreviewControl.html#UnityClock_Editor_ClockPreviewControl_StopPreview
+  commentId: M:UnityClock.Editor.ClockPreviewControl.StopPreview
+  fullName: UnityClock.Editor.ClockPreviewControl.StopPreview()
+  nameWithType: ClockPreviewControl.StopPreview()
+- uid: UnityClock.Editor.ClockPreviewControl.StopPreview*
+  name: StopPreview
+  href: api/UnityClock.Editor.ClockPreviewControl.html#UnityClock_Editor_ClockPreviewControl_StopPreview_
+  commentId: Overload:UnityClock.Editor.ClockPreviewControl.StopPreview
+  isSpec: "True"
+  fullName: UnityClock.Editor.ClockPreviewControl.StopPreview
+  nameWithType: ClockPreviewControl.StopPreview
+- uid: UnityClock.Editor.ClockPreviewControl.canPreview
+  name: canPreview
+  href: api/UnityClock.Editor.ClockPreviewControl.html#UnityClock_Editor_ClockPreviewControl_canPreview
+  commentId: P:UnityClock.Editor.ClockPreviewControl.canPreview
+  fullName: UnityClock.Editor.ClockPreviewControl.canPreview
+  nameWithType: ClockPreviewControl.canPreview
+- uid: UnityClock.Editor.ClockPreviewControl.canPreview*
+  name: canPreview
+  href: api/UnityClock.Editor.ClockPreviewControl.html#UnityClock_Editor_ClockPreviewControl_canPreview_
+  commentId: Overload:UnityClock.Editor.ClockPreviewControl.canPreview
+  isSpec: "True"
+  fullName: UnityClock.Editor.ClockPreviewControl.canPreview
+  nameWithType: ClockPreviewControl.canPreview
+- uid: UnityClock.Editor.ClockPreviewControl.daySpan
+  name: daySpan
+  href: api/UnityClock.Editor.ClockPreviewControl.html#UnityClock_Editor_ClockPreviewControl_daySpan
+  commentId: F:UnityClock.Editor.ClockPreviewControl.daySpan
+  fullName: UnityClock.Editor.ClockPreviewControl.daySpan
+  nameWithType: ClockPreviewControl.daySpan
+- uid: UnityClock.Editor.ClockPreviewControl.previewing
+  name: previewing
+  href: api/UnityClock.Editor.ClockPreviewControl.html#UnityClock_Editor_ClockPreviewControl_previewing
+  commentId: P:UnityClock.Editor.ClockPreviewControl.previewing
+  fullName: UnityClock.Editor.ClockPreviewControl.previewing
+  nameWithType: ClockPreviewControl.previewing
+- uid: UnityClock.Editor.ClockPreviewControl.previewing*
+  name: previewing
+  href: api/UnityClock.Editor.ClockPreviewControl.html#UnityClock_Editor_ClockPreviewControl_previewing_
+  commentId: Overload:UnityClock.Editor.ClockPreviewControl.previewing
+  isSpec: "True"
+  fullName: UnityClock.Editor.ClockPreviewControl.previewing
+  nameWithType: ClockPreviewControl.previewing
+- uid: UnityClock.Editor.ClockPreviewControl.time
+  name: time
+  href: api/UnityClock.Editor.ClockPreviewControl.html#UnityClock_Editor_ClockPreviewControl_time
+  commentId: P:UnityClock.Editor.ClockPreviewControl.time
+  fullName: UnityClock.Editor.ClockPreviewControl.time
+  nameWithType: ClockPreviewControl.time
+- uid: UnityClock.Editor.ClockPreviewControl.time*
+  name: time
+  href: api/UnityClock.Editor.ClockPreviewControl.html#UnityClock_Editor_ClockPreviewControl_time_
+  commentId: Overload:UnityClock.Editor.ClockPreviewControl.time
+  isSpec: "True"
+  fullName: UnityClock.Editor.ClockPreviewControl.time
+  nameWithType: ClockPreviewControl.time
+- uid: UnityClock.Editor.ClockToolbar
+  name: ClockToolbar
+  href: api/UnityClock.Editor.ClockToolbar.html
+  commentId: T:UnityClock.Editor.ClockToolbar
+  fullName: UnityClock.Editor.ClockToolbar
+  nameWithType: ClockToolbar
+- uid: UnityClock.Editor.ClockToolbar.#ctor
+  name: ClockToolbar()
+  href: api/UnityClock.Editor.ClockToolbar.html#UnityClock_Editor_ClockToolbar__ctor
+  commentId: M:UnityClock.Editor.ClockToolbar.#ctor
+  name.vb: New()
+  fullName: UnityClock.Editor.ClockToolbar.ClockToolbar()
+  fullName.vb: UnityClock.Editor.ClockToolbar.New()
+  nameWithType: ClockToolbar.ClockToolbar()
+  nameWithType.vb: ClockToolbar.New()
+- uid: UnityClock.Editor.ClockToolbar.#ctor*
+  name: ClockToolbar
+  href: api/UnityClock.Editor.ClockToolbar.html#UnityClock_Editor_ClockToolbar__ctor_
+  commentId: Overload:UnityClock.Editor.ClockToolbar.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: UnityClock.Editor.ClockToolbar.ClockToolbar
+  fullName.vb: UnityClock.Editor.ClockToolbar.New
+  nameWithType: ClockToolbar.ClockToolbar
+  nameWithType.vb: ClockToolbar.New
+- uid: UnityClock.Editor.ClockToolbar.OnCreated
+  name: OnCreated()
+  href: api/UnityClock.Editor.ClockToolbar.html#UnityClock_Editor_ClockToolbar_OnCreated
+  commentId: M:UnityClock.Editor.ClockToolbar.OnCreated
+  fullName: UnityClock.Editor.ClockToolbar.OnCreated()
+  nameWithType: ClockToolbar.OnCreated()
+- uid: UnityClock.Editor.ClockToolbar.OnCreated*
+  name: OnCreated
+  href: api/UnityClock.Editor.ClockToolbar.html#UnityClock_Editor_ClockToolbar_OnCreated_
+  commentId: Overload:UnityClock.Editor.ClockToolbar.OnCreated
+  isSpec: "True"
+  fullName: UnityClock.Editor.ClockToolbar.OnCreated
+  nameWithType: ClockToolbar.OnCreated
+- uid: UnityClock.Editor.ClockToolbar.OnWillBeDestroyed
+  name: OnWillBeDestroyed()
+  href: api/UnityClock.Editor.ClockToolbar.html#UnityClock_Editor_ClockToolbar_OnWillBeDestroyed
+  commentId: M:UnityClock.Editor.ClockToolbar.OnWillBeDestroyed
+  fullName: UnityClock.Editor.ClockToolbar.OnWillBeDestroyed()
+  nameWithType: ClockToolbar.OnWillBeDestroyed()
+- uid: UnityClock.Editor.ClockToolbar.OnWillBeDestroyed*
+  name: OnWillBeDestroyed
+  href: api/UnityClock.Editor.ClockToolbar.html#UnityClock_Editor_ClockToolbar_OnWillBeDestroyed_
+  commentId: Overload:UnityClock.Editor.ClockToolbar.OnWillBeDestroyed
+  isSpec: "True"
+  fullName: UnityClock.Editor.ClockToolbar.OnWillBeDestroyed
+  nameWithType: ClockToolbar.OnWillBeDestroyed
+- uid: UnityClock.Editor.ClockToolbar.clockPreviewControl
+  name: clockPreviewControl
+  href: api/UnityClock.Editor.ClockToolbar.html#UnityClock_Editor_ClockToolbar_clockPreviewControl
+  commentId: F:UnityClock.Editor.ClockToolbar.clockPreviewControl
+  fullName: UnityClock.Editor.ClockToolbar.clockPreviewControl
+  nameWithType: ClockToolbar.clockPreviewControl
+- uid: UnityClock.Editor.SceneClockElement
+  name: SceneClockElement
+  href: api/UnityClock.Editor.SceneClockElement.html
+  commentId: T:UnityClock.Editor.SceneClockElement
+  fullName: UnityClock.Editor.SceneClockElement
+  nameWithType: SceneClockElement
+- uid: UnityClock.Editor.SceneClockElement.#ctor
+  name: SceneClockElement()
+  href: api/UnityClock.Editor.SceneClockElement.html#UnityClock_Editor_SceneClockElement__ctor
+  commentId: M:UnityClock.Editor.SceneClockElement.#ctor
+  name.vb: New()
+  fullName: UnityClock.Editor.SceneClockElement.SceneClockElement()
+  fullName.vb: UnityClock.Editor.SceneClockElement.New()
+  nameWithType: SceneClockElement.SceneClockElement()
+  nameWithType.vb: SceneClockElement.New()
+- uid: UnityClock.Editor.SceneClockElement.#ctor*
+  name: SceneClockElement
+  href: api/UnityClock.Editor.SceneClockElement.html#UnityClock_Editor_SceneClockElement__ctor_
+  commentId: Overload:UnityClock.Editor.SceneClockElement.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: UnityClock.Editor.SceneClockElement.SceneClockElement
+  fullName.vb: UnityClock.Editor.SceneClockElement.New
+  nameWithType: SceneClockElement.SceneClockElement
+  nameWithType.vb: SceneClockElement.New
+- uid: UnityClock.Editor.SceneClockElement.clockPreviewControl
+  name: clockPreviewControl
+  href: api/UnityClock.Editor.SceneClockElement.html#UnityClock_Editor_SceneClockElement_clockPreviewControl
+  commentId: P:UnityClock.Editor.SceneClockElement.clockPreviewControl
+  fullName: UnityClock.Editor.SceneClockElement.clockPreviewControl
+  nameWithType: SceneClockElement.clockPreviewControl
+- uid: UnityClock.Editor.SceneClockElement.clockPreviewControl*
+  name: clockPreviewControl
+  href: api/UnityClock.Editor.SceneClockElement.html#UnityClock_Editor_SceneClockElement_clockPreviewControl_
+  commentId: Overload:UnityClock.Editor.SceneClockElement.clockPreviewControl
+  isSpec: "True"
+  fullName: UnityClock.Editor.SceneClockElement.clockPreviewControl
+  nameWithType: SceneClockElement.clockPreviewControl
+- uid: UnityClock.Editor.SceneClockElement.clockToolbar
+  name: clockToolbar
+  href: api/UnityClock.Editor.SceneClockElement.html#UnityClock_Editor_SceneClockElement_clockToolbar
+  commentId: P:UnityClock.Editor.SceneClockElement.clockToolbar
+  fullName: UnityClock.Editor.SceneClockElement.clockToolbar
+  nameWithType: SceneClockElement.clockToolbar
+- uid: UnityClock.Editor.SceneClockElement.clockToolbar*
+  name: clockToolbar
+  href: api/UnityClock.Editor.SceneClockElement.html#UnityClock_Editor_SceneClockElement_clockToolbar_
+  commentId: Overload:UnityClock.Editor.SceneClockElement.clockToolbar
+  isSpec: "True"
+  fullName: UnityClock.Editor.SceneClockElement.clockToolbar
+  nameWithType: SceneClockElement.clockToolbar
+- uid: UnityClock.Editor.SceneClockElement.containerWindow
+  name: containerWindow
+  href: api/UnityClock.Editor.SceneClockElement.html#UnityClock_Editor_SceneClockElement_containerWindow
+  commentId: P:UnityClock.Editor.SceneClockElement.containerWindow
+  fullName: UnityClock.Editor.SceneClockElement.containerWindow
+  nameWithType: SceneClockElement.containerWindow
+- uid: UnityClock.Editor.SceneClockElement.containerWindow*
+  name: containerWindow
+  href: api/UnityClock.Editor.SceneClockElement.html#UnityClock_Editor_SceneClockElement_containerWindow_
+  commentId: Overload:UnityClock.Editor.SceneClockElement.containerWindow
+  isSpec: "True"
+  fullName: UnityClock.Editor.SceneClockElement.containerWindow
+  nameWithType: SceneClockElement.containerWindow
+- uid: UnityClock.Editor.SceneClockElement.sceneView
+  name: sceneView
+  href: api/UnityClock.Editor.SceneClockElement.html#UnityClock_Editor_SceneClockElement_sceneView
+  commentId: P:UnityClock.Editor.SceneClockElement.sceneView
+  fullName: UnityClock.Editor.SceneClockElement.sceneView
+  nameWithType: SceneClockElement.sceneView
+- uid: UnityClock.Editor.SceneClockElement.sceneView*
+  name: sceneView
+  href: api/UnityClock.Editor.SceneClockElement.html#UnityClock_Editor_SceneClockElement_sceneView_
+  commentId: Overload:UnityClock.Editor.SceneClockElement.sceneView
+  isSpec: "True"
+  fullName: UnityClock.Editor.SceneClockElement.sceneView
+  nameWithType: SceneClockElement.sceneView
+- uid: UnityClock.Editor.TimeOnlyDrawer
+  name: TimeOnlyDrawer
+  href: api/UnityClock.Editor.TimeOnlyDrawer.html
+  commentId: T:UnityClock.Editor.TimeOnlyDrawer
+  fullName: UnityClock.Editor.TimeOnlyDrawer
+  nameWithType: TimeOnlyDrawer
+- uid: UnityClock.Editor.TimeOnlyDrawer.CreatePropertyGUI(SerializedProperty)
+  name: CreatePropertyGUI(SerializedProperty)
+  href: api/UnityClock.Editor.TimeOnlyDrawer.html#UnityClock_Editor_TimeOnlyDrawer_CreatePropertyGUI_SerializedProperty_
+  commentId: M:UnityClock.Editor.TimeOnlyDrawer.CreatePropertyGUI(SerializedProperty)
+  fullName: UnityClock.Editor.TimeOnlyDrawer.CreatePropertyGUI(SerializedProperty)
+  nameWithType: TimeOnlyDrawer.CreatePropertyGUI(SerializedProperty)
+- uid: UnityClock.Editor.TimeOnlyDrawer.CreatePropertyGUI*
+  name: CreatePropertyGUI
+  href: api/UnityClock.Editor.TimeOnlyDrawer.html#UnityClock_Editor_TimeOnlyDrawer_CreatePropertyGUI_
+  commentId: Overload:UnityClock.Editor.TimeOnlyDrawer.CreatePropertyGUI
+  isSpec: "True"
+  fullName: UnityClock.Editor.TimeOnlyDrawer.CreatePropertyGUI
+  nameWithType: TimeOnlyDrawer.CreatePropertyGUI
+- uid: UnityClock.Editor.TimeSpanDrawer
+  name: TimeSpanDrawer
+  href: api/UnityClock.Editor.TimeSpanDrawer.html
+  commentId: T:UnityClock.Editor.TimeSpanDrawer
+  fullName: UnityClock.Editor.TimeSpanDrawer
+  nameWithType: TimeSpanDrawer
+- uid: UnityClock.Editor.TimeSpanDrawer.CreatePropertyGUI(SerializedProperty)
+  name: CreatePropertyGUI(SerializedProperty)
+  href: api/UnityClock.Editor.TimeSpanDrawer.html#UnityClock_Editor_TimeSpanDrawer_CreatePropertyGUI_SerializedProperty_
+  commentId: M:UnityClock.Editor.TimeSpanDrawer.CreatePropertyGUI(SerializedProperty)
+  fullName: UnityClock.Editor.TimeSpanDrawer.CreatePropertyGUI(SerializedProperty)
+  nameWithType: TimeSpanDrawer.CreatePropertyGUI(SerializedProperty)
+- uid: UnityClock.Editor.TimeSpanDrawer.CreatePropertyGUI*
+  name: CreatePropertyGUI
+  href: api/UnityClock.Editor.TimeSpanDrawer.html#UnityClock_Editor_TimeSpanDrawer_CreatePropertyGUI_
+  commentId: Overload:UnityClock.Editor.TimeSpanDrawer.CreatePropertyGUI
+  isSpec: "True"
+  fullName: UnityClock.Editor.TimeSpanDrawer.CreatePropertyGUI
+  nameWithType: TimeSpanDrawer.CreatePropertyGUI
+- uid: UnityClock.ICycle
+  name: ICycle
+  href: api/UnityClock.ICycle.html
+  commentId: T:UnityClock.ICycle
+  fullName: UnityClock.ICycle
+  nameWithType: ICycle
+- uid: UnityClock.ICycle.duration
+  name: duration
+  href: api/UnityClock.ICycle.html#UnityClock_ICycle_duration
+  commentId: P:UnityClock.ICycle.duration
+  fullName: UnityClock.ICycle.duration
+  nameWithType: ICycle.duration
+- uid: UnityClock.ICycle.duration*
+  name: duration
+  href: api/UnityClock.ICycle.html#UnityClock_ICycle_duration_
+  commentId: Overload:UnityClock.ICycle.duration
+  isSpec: "True"
+  fullName: UnityClock.ICycle.duration
+  nameWithType: ICycle.duration
+- uid: UnityClock.ICycle.loops
+  name: loops
+  href: api/UnityClock.ICycle.html#UnityClock_ICycle_loops
+  commentId: P:UnityClock.ICycle.loops
+  fullName: UnityClock.ICycle.loops
+  nameWithType: ICycle.loops
+- uid: UnityClock.ICycle.loops*
+  name: loops
+  href: api/UnityClock.ICycle.html#UnityClock_ICycle_loops_
+  commentId: Overload:UnityClock.ICycle.loops
+  isSpec: "True"
+  fullName: UnityClock.ICycle.loops
+  nameWithType: ICycle.loops
+- uid: UnityClock.ICycle.start
+  name: start
+  href: api/UnityClock.ICycle.html#UnityClock_ICycle_start
+  commentId: P:UnityClock.ICycle.start
+  fullName: UnityClock.ICycle.start
+  nameWithType: ICycle.start
+- uid: UnityClock.ICycle.start*
+  name: start
+  href: api/UnityClock.ICycle.html#UnityClock_ICycle_start_
+  commentId: Overload:UnityClock.ICycle.start
+  isSpec: "True"
+  fullName: UnityClock.ICycle.start
+  nameWithType: ICycle.start
+- uid: UnityClock.ICycleSource
+  name: ICycleSource
+  href: api/UnityClock.ICycleSource.html
+  commentId: T:UnityClock.ICycleSource
+  fullName: UnityClock.ICycleSource
+  nameWithType: ICycleSource
+- uid: UnityClock.ICycleSource.Create(PlayableGraph)
+  name: Create(PlayableGraph)
+  href: api/UnityClock.ICycleSource.html#UnityClock_ICycleSource_Create_PlayableGraph_
+  commentId: M:UnityClock.ICycleSource.Create(PlayableGraph)
+  fullName: UnityClock.ICycleSource.Create(PlayableGraph)
+  nameWithType: ICycleSource.Create(PlayableGraph)
+- uid: UnityClock.ICycleSource.Create*
+  name: Create
+  href: api/UnityClock.ICycleSource.html#UnityClock_ICycleSource_Create_
+  commentId: Overload:UnityClock.ICycleSource.Create
+  isSpec: "True"
+  fullName: UnityClock.ICycleSource.Create
+  nameWithType: ICycleSource.Create
+- uid: UnityClock.ICycleSource.Destroy
+  name: Destroy()
+  href: api/UnityClock.ICycleSource.html#UnityClock_ICycleSource_Destroy
+  commentId: M:UnityClock.ICycleSource.Destroy
+  fullName: UnityClock.ICycleSource.Destroy()
+  nameWithType: ICycleSource.Destroy()
+- uid: UnityClock.ICycleSource.Destroy*
+  name: Destroy
+  href: api/UnityClock.ICycleSource.html#UnityClock_ICycleSource_Destroy_
+  commentId: Overload:UnityClock.ICycleSource.Destroy
+  isSpec: "True"
+  fullName: UnityClock.ICycleSource.Destroy
+  nameWithType: ICycleSource.Destroy
+- uid: UnityClock.ICycleSource.OnPlay
+  name: OnPlay()
+  href: api/UnityClock.ICycleSource.html#UnityClock_ICycleSource_OnPlay
+  commentId: M:UnityClock.ICycleSource.OnPlay
+  fullName: UnityClock.ICycleSource.OnPlay()
+  nameWithType: ICycleSource.OnPlay()
+- uid: UnityClock.ICycleSource.OnPlay*
+  name: OnPlay
+  href: api/UnityClock.ICycleSource.html#UnityClock_ICycleSource_OnPlay_
+  commentId: Overload:UnityClock.ICycleSource.OnPlay
+  isSpec: "True"
+  fullName: UnityClock.ICycleSource.OnPlay
+  nameWithType: ICycleSource.OnPlay
+- uid: UnityClock.ICycleSource.OnStop
+  name: OnStop()
+  href: api/UnityClock.ICycleSource.html#UnityClock_ICycleSource_OnStop
+  commentId: M:UnityClock.ICycleSource.OnStop
+  fullName: UnityClock.ICycleSource.OnStop()
+  nameWithType: ICycleSource.OnStop()
+- uid: UnityClock.ICycleSource.OnStop*
+  name: OnStop
+  href: api/UnityClock.ICycleSource.html#UnityClock_ICycleSource_OnStop_
+  commentId: Overload:UnityClock.ICycleSource.OnStop
+  isSpec: "True"
+  fullName: UnityClock.ICycleSource.OnStop
+  nameWithType: ICycleSource.OnStop
+- uid: UnityClock.Instance`1
+  name: Instance<T>
+  href: api/UnityClock.Instance-1.html
+  commentId: T:UnityClock.Instance`1
+  name.vb: Instance(Of T)
+  fullName: UnityClock.Instance<T>
+  fullName.vb: UnityClock.Instance(Of T)
+  nameWithType: Instance<T>
+  nameWithType.vb: Instance(Of T)
+- uid: UnityClock.Instance`1.OnEnable
+  name: OnEnable()
+  href: api/UnityClock.Instance-1.html#UnityClock_Instance_1_OnEnable
+  commentId: M:UnityClock.Instance`1.OnEnable
+  fullName: UnityClock.Instance<T>.OnEnable()
+  fullName.vb: UnityClock.Instance(Of T).OnEnable()
+  nameWithType: Instance<T>.OnEnable()
+  nameWithType.vb: Instance(Of T).OnEnable()
+- uid: UnityClock.Instance`1.OnEnable*
+  name: OnEnable
+  href: api/UnityClock.Instance-1.html#UnityClock_Instance_1_OnEnable_
+  commentId: Overload:UnityClock.Instance`1.OnEnable
+  isSpec: "True"
+  fullName: UnityClock.Instance<T>.OnEnable
+  fullName.vb: UnityClock.Instance(Of T).OnEnable
+  nameWithType: Instance<T>.OnEnable
+  nameWithType.vb: Instance(Of T).OnEnable
+- uid: UnityClock.Instance`1.SetState
+  name: SetState()
+  href: api/UnityClock.Instance-1.html#UnityClock_Instance_1_SetState
+  commentId: M:UnityClock.Instance`1.SetState
+  fullName: UnityClock.Instance<T>.SetState()
+  fullName.vb: UnityClock.Instance(Of T).SetState()
+  nameWithType: Instance<T>.SetState()
+  nameWithType.vb: Instance(Of T).SetState()
+- uid: UnityClock.Instance`1.SetState*
+  name: SetState
+  href: api/UnityClock.Instance-1.html#UnityClock_Instance_1_SetState_
+  commentId: Overload:UnityClock.Instance`1.SetState
+  isSpec: "True"
+  fullName: UnityClock.Instance<T>.SetState
+  fullName.vb: UnityClock.Instance(Of T).SetState
+  nameWithType: Instance<T>.SetState
+  nameWithType.vb: Instance(Of T).SetState
+- uid: UnityClock.Instance`1.current
+  name: current
+  href: api/UnityClock.Instance-1.html#UnityClock_Instance_1_current
+  commentId: P:UnityClock.Instance`1.current
+  fullName: UnityClock.Instance<T>.current
+  fullName.vb: UnityClock.Instance(Of T).current
+  nameWithType: Instance<T>.current
+  nameWithType.vb: Instance(Of T).current
+- uid: UnityClock.Instance`1.current*
+  name: current
+  href: api/UnityClock.Instance-1.html#UnityClock_Instance_1_current_
+  commentId: Overload:UnityClock.Instance`1.current
+  isSpec: "True"
+  fullName: UnityClock.Instance<T>.current
+  fullName.vb: UnityClock.Instance(Of T).current
+  nameWithType: Instance<T>.current
+  nameWithType.vb: Instance(Of T).current
+- uid: UnityClock.TimeOnlyAttribute
+  name: TimeOnlyAttribute
+  href: api/UnityClock.TimeOnlyAttribute.html
+  commentId: T:UnityClock.TimeOnlyAttribute
+  fullName: UnityClock.TimeOnlyAttribute
+  nameWithType: TimeOnlyAttribute
+- uid: UnityClock.TimeSpanAttribute
+  name: TimeSpanAttribute
+  href: api/UnityClock.TimeSpanAttribute.html
+  commentId: T:UnityClock.TimeSpanAttribute
+  fullName: UnityClock.TimeSpanAttribute
+  nameWithType: TimeSpanAttribute
+- uid: UnityClock.UIElements
+  name: UnityClock.UIElements
+  href: api/UnityClock.UIElements.html
+  commentId: N:UnityClock.UIElements
+  fullName: UnityClock.UIElements
+  nameWithType: UnityClock.UIElements
+- uid: UnityClock.UIElements.TimeOnlyField
+  name: TimeOnlyField
+  href: api/UnityClock.UIElements.TimeOnlyField.html
+  commentId: T:UnityClock.UIElements.TimeOnlyField
+  fullName: UnityClock.UIElements.TimeOnlyField
+  nameWithType: TimeOnlyField
+- uid: UnityClock.UIElements.TimeOnlyField.#ctor
+  name: TimeOnlyField()
+  href: api/UnityClock.UIElements.TimeOnlyField.html#UnityClock_UIElements_TimeOnlyField__ctor
+  commentId: M:UnityClock.UIElements.TimeOnlyField.#ctor
+  name.vb: New()
+  fullName: UnityClock.UIElements.TimeOnlyField.TimeOnlyField()
+  fullName.vb: UnityClock.UIElements.TimeOnlyField.New()
+  nameWithType: TimeOnlyField.TimeOnlyField()
+  nameWithType.vb: TimeOnlyField.New()
+- uid: UnityClock.UIElements.TimeOnlyField.#ctor(System.String)
+  name: TimeOnlyField(string)
+  href: api/UnityClock.UIElements.TimeOnlyField.html#UnityClock_UIElements_TimeOnlyField__ctor_System_String_
+  commentId: M:UnityClock.UIElements.TimeOnlyField.#ctor(System.String)
+  name.vb: New(String)
+  fullName: UnityClock.UIElements.TimeOnlyField.TimeOnlyField(string)
+  fullName.vb: UnityClock.UIElements.TimeOnlyField.New(String)
+  nameWithType: TimeOnlyField.TimeOnlyField(string)
+  nameWithType.vb: TimeOnlyField.New(String)
+- uid: UnityClock.UIElements.TimeOnlyField.#ctor*
+  name: TimeOnlyField
+  href: api/UnityClock.UIElements.TimeOnlyField.html#UnityClock_UIElements_TimeOnlyField__ctor_
+  commentId: Overload:UnityClock.UIElements.TimeOnlyField.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: UnityClock.UIElements.TimeOnlyField.TimeOnlyField
+  fullName.vb: UnityClock.UIElements.TimeOnlyField.New
+  nameWithType: TimeOnlyField.TimeOnlyField
+  nameWithType.vb: TimeOnlyField.New
+- uid: UnityClock.UIElements.TimeOnlyField.ApplyInputDeviceDelta(Vector3,DeltaSpeed,System.TimeOnly)
+  name: ApplyInputDeviceDelta(Vector3, DeltaSpeed, TimeOnly)
+  href: api/UnityClock.UIElements.TimeOnlyField.html#UnityClock_UIElements_TimeOnlyField_ApplyInputDeviceDelta_Vector3_DeltaSpeed_System_TimeOnly_
+  commentId: M:UnityClock.UIElements.TimeOnlyField.ApplyInputDeviceDelta(Vector3,DeltaSpeed,System.TimeOnly)
+  fullName: UnityClock.UIElements.TimeOnlyField.ApplyInputDeviceDelta(Vector3, DeltaSpeed, System.TimeOnly)
+  nameWithType: TimeOnlyField.ApplyInputDeviceDelta(Vector3, DeltaSpeed, TimeOnly)
+- uid: UnityClock.UIElements.TimeOnlyField.ApplyInputDeviceDelta*
+  name: ApplyInputDeviceDelta
+  href: api/UnityClock.UIElements.TimeOnlyField.html#UnityClock_UIElements_TimeOnlyField_ApplyInputDeviceDelta_
+  commentId: Overload:UnityClock.UIElements.TimeOnlyField.ApplyInputDeviceDelta
+  isSpec: "True"
+  fullName: UnityClock.UIElements.TimeOnlyField.ApplyInputDeviceDelta
+  nameWithType: TimeOnlyField.ApplyInputDeviceDelta
+- uid: UnityClock.UIElements.TimeOnlyField.StringToValue(System.String)
+  name: StringToValue(string)
+  href: api/UnityClock.UIElements.TimeOnlyField.html#UnityClock_UIElements_TimeOnlyField_StringToValue_System_String_
+  commentId: M:UnityClock.UIElements.TimeOnlyField.StringToValue(System.String)
+  name.vb: StringToValue(String)
+  fullName: UnityClock.UIElements.TimeOnlyField.StringToValue(string)
+  fullName.vb: UnityClock.UIElements.TimeOnlyField.StringToValue(String)
+  nameWithType: TimeOnlyField.StringToValue(string)
+  nameWithType.vb: TimeOnlyField.StringToValue(String)
+- uid: UnityClock.UIElements.TimeOnlyField.StringToValue*
+  name: StringToValue
+  href: api/UnityClock.UIElements.TimeOnlyField.html#UnityClock_UIElements_TimeOnlyField_StringToValue_
+  commentId: Overload:UnityClock.UIElements.TimeOnlyField.StringToValue
+  isSpec: "True"
+  fullName: UnityClock.UIElements.TimeOnlyField.StringToValue
+  nameWithType: TimeOnlyField.StringToValue
+- uid: UnityClock.UIElements.TimeOnlyField.ValueToString(System.TimeOnly)
+  name: ValueToString(TimeOnly)
+  href: api/UnityClock.UIElements.TimeOnlyField.html#UnityClock_UIElements_TimeOnlyField_ValueToString_System_TimeOnly_
+  commentId: M:UnityClock.UIElements.TimeOnlyField.ValueToString(System.TimeOnly)
+  fullName: UnityClock.UIElements.TimeOnlyField.ValueToString(System.TimeOnly)
+  nameWithType: TimeOnlyField.ValueToString(TimeOnly)
+- uid: UnityClock.UIElements.TimeOnlyField.ValueToString*
+  name: ValueToString
+  href: api/UnityClock.UIElements.TimeOnlyField.html#UnityClock_UIElements_TimeOnlyField_ValueToString_
+  commentId: Overload:UnityClock.UIElements.TimeOnlyField.ValueToString
+  isSpec: "True"
+  fullName: UnityClock.UIElements.TimeOnlyField.ValueToString
+  nameWithType: TimeOnlyField.ValueToString
+- uid: UnityClock.UIElements.TimeOnlyField.inputUssClassName
+  name: inputUssClassName
+  href: api/UnityClock.UIElements.TimeOnlyField.html#UnityClock_UIElements_TimeOnlyField_inputUssClassName
+  commentId: F:UnityClock.UIElements.TimeOnlyField.inputUssClassName
+  fullName: UnityClock.UIElements.TimeOnlyField.inputUssClassName
+  nameWithType: TimeOnlyField.inputUssClassName
+- uid: UnityClock.UIElements.TimeOnlyField.labelUssClassName
+  name: labelUssClassName
+  href: api/UnityClock.UIElements.TimeOnlyField.html#UnityClock_UIElements_TimeOnlyField_labelUssClassName
+  commentId: F:UnityClock.UIElements.TimeOnlyField.labelUssClassName
+  fullName: UnityClock.UIElements.TimeOnlyField.labelUssClassName
+  nameWithType: TimeOnlyField.labelUssClassName
+- uid: UnityClock.UIElements.TimeOnlyField.ussClassName
+  name: ussClassName
+  href: api/UnityClock.UIElements.TimeOnlyField.html#UnityClock_UIElements_TimeOnlyField_ussClassName
+  commentId: F:UnityClock.UIElements.TimeOnlyField.ussClassName
+  fullName: UnityClock.UIElements.TimeOnlyField.ussClassName
+  nameWithType: TimeOnlyField.ussClassName
+- uid: UnityClock.UIElements.TimeSpanField
+  name: TimeSpanField
+  href: api/UnityClock.UIElements.TimeSpanField.html
+  commentId: T:UnityClock.UIElements.TimeSpanField
+  fullName: UnityClock.UIElements.TimeSpanField
+  nameWithType: TimeSpanField
+- uid: UnityClock.UIElements.TimeSpanField.#ctor
+  name: TimeSpanField()
+  href: api/UnityClock.UIElements.TimeSpanField.html#UnityClock_UIElements_TimeSpanField__ctor
+  commentId: M:UnityClock.UIElements.TimeSpanField.#ctor
+  name.vb: New()
+  fullName: UnityClock.UIElements.TimeSpanField.TimeSpanField()
+  fullName.vb: UnityClock.UIElements.TimeSpanField.New()
+  nameWithType: TimeSpanField.TimeSpanField()
+  nameWithType.vb: TimeSpanField.New()
+- uid: UnityClock.UIElements.TimeSpanField.#ctor(System.String)
+  name: TimeSpanField(string)
+  href: api/UnityClock.UIElements.TimeSpanField.html#UnityClock_UIElements_TimeSpanField__ctor_System_String_
+  commentId: M:UnityClock.UIElements.TimeSpanField.#ctor(System.String)
+  name.vb: New(String)
+  fullName: UnityClock.UIElements.TimeSpanField.TimeSpanField(string)
+  fullName.vb: UnityClock.UIElements.TimeSpanField.New(String)
+  nameWithType: TimeSpanField.TimeSpanField(string)
+  nameWithType.vb: TimeSpanField.New(String)
+- uid: UnityClock.UIElements.TimeSpanField.#ctor*
+  name: TimeSpanField
+  href: api/UnityClock.UIElements.TimeSpanField.html#UnityClock_UIElements_TimeSpanField__ctor_
+  commentId: Overload:UnityClock.UIElements.TimeSpanField.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: UnityClock.UIElements.TimeSpanField.TimeSpanField
+  fullName.vb: UnityClock.UIElements.TimeSpanField.New
+  nameWithType: TimeSpanField.TimeSpanField
+  nameWithType.vb: TimeSpanField.New
+- uid: UnityClock.UIElements.TimeSpanField.ApplyInputDeviceDelta(Vector3,DeltaSpeed,System.TimeSpan)
+  name: ApplyInputDeviceDelta(Vector3, DeltaSpeed, TimeSpan)
+  href: api/UnityClock.UIElements.TimeSpanField.html#UnityClock_UIElements_TimeSpanField_ApplyInputDeviceDelta_Vector3_DeltaSpeed_System_TimeSpan_
+  commentId: M:UnityClock.UIElements.TimeSpanField.ApplyInputDeviceDelta(Vector3,DeltaSpeed,System.TimeSpan)
+  fullName: UnityClock.UIElements.TimeSpanField.ApplyInputDeviceDelta(Vector3, DeltaSpeed, System.TimeSpan)
+  nameWithType: TimeSpanField.ApplyInputDeviceDelta(Vector3, DeltaSpeed, TimeSpan)
+- uid: UnityClock.UIElements.TimeSpanField.ApplyInputDeviceDelta*
+  name: ApplyInputDeviceDelta
+  href: api/UnityClock.UIElements.TimeSpanField.html#UnityClock_UIElements_TimeSpanField_ApplyInputDeviceDelta_
+  commentId: Overload:UnityClock.UIElements.TimeSpanField.ApplyInputDeviceDelta
+  isSpec: "True"
+  fullName: UnityClock.UIElements.TimeSpanField.ApplyInputDeviceDelta
+  nameWithType: TimeSpanField.ApplyInputDeviceDelta
+- uid: UnityClock.UIElements.TimeSpanField.StringToValue(System.String)
+  name: StringToValue(string)
+  href: api/UnityClock.UIElements.TimeSpanField.html#UnityClock_UIElements_TimeSpanField_StringToValue_System_String_
+  commentId: M:UnityClock.UIElements.TimeSpanField.StringToValue(System.String)
+  name.vb: StringToValue(String)
+  fullName: UnityClock.UIElements.TimeSpanField.StringToValue(string)
+  fullName.vb: UnityClock.UIElements.TimeSpanField.StringToValue(String)
+  nameWithType: TimeSpanField.StringToValue(string)
+  nameWithType.vb: TimeSpanField.StringToValue(String)
+- uid: UnityClock.UIElements.TimeSpanField.StringToValue*
+  name: StringToValue
+  href: api/UnityClock.UIElements.TimeSpanField.html#UnityClock_UIElements_TimeSpanField_StringToValue_
+  commentId: Overload:UnityClock.UIElements.TimeSpanField.StringToValue
+  isSpec: "True"
+  fullName: UnityClock.UIElements.TimeSpanField.StringToValue
+  nameWithType: TimeSpanField.StringToValue
+- uid: UnityClock.UIElements.TimeSpanField.ValueToString(System.TimeSpan)
+  name: ValueToString(TimeSpan)
+  href: api/UnityClock.UIElements.TimeSpanField.html#UnityClock_UIElements_TimeSpanField_ValueToString_System_TimeSpan_
+  commentId: M:UnityClock.UIElements.TimeSpanField.ValueToString(System.TimeSpan)
+  fullName: UnityClock.UIElements.TimeSpanField.ValueToString(System.TimeSpan)
+  nameWithType: TimeSpanField.ValueToString(TimeSpan)
+- uid: UnityClock.UIElements.TimeSpanField.ValueToString*
+  name: ValueToString
+  href: api/UnityClock.UIElements.TimeSpanField.html#UnityClock_UIElements_TimeSpanField_ValueToString_
+  commentId: Overload:UnityClock.UIElements.TimeSpanField.ValueToString
+  isSpec: "True"
+  fullName: UnityClock.UIElements.TimeSpanField.ValueToString
+  nameWithType: TimeSpanField.ValueToString
+- uid: UnityClock.UIElements.TimeSpanField.inputUssClassName
+  name: inputUssClassName
+  href: api/UnityClock.UIElements.TimeSpanField.html#UnityClock_UIElements_TimeSpanField_inputUssClassName
+  commentId: F:UnityClock.UIElements.TimeSpanField.inputUssClassName
+  fullName: UnityClock.UIElements.TimeSpanField.inputUssClassName
+  nameWithType: TimeSpanField.inputUssClassName
+- uid: UnityClock.UIElements.TimeSpanField.labelUssClassName
+  name: labelUssClassName
+  href: api/UnityClock.UIElements.TimeSpanField.html#UnityClock_UIElements_TimeSpanField_labelUssClassName
+  commentId: F:UnityClock.UIElements.TimeSpanField.labelUssClassName
+  fullName: UnityClock.UIElements.TimeSpanField.labelUssClassName
+  nameWithType: TimeSpanField.labelUssClassName
+- uid: UnityClock.UIElements.TimeSpanField.ussClassName
+  name: ussClassName
+  href: api/UnityClock.UIElements.TimeSpanField.html#UnityClock_UIElements_TimeSpanField_ussClassName
+  commentId: F:UnityClock.UIElements.TimeSpanField.ussClassName
+  fullName: UnityClock.UIElements.TimeSpanField.ussClassName
+  nameWithType: TimeSpanField.ussClassName

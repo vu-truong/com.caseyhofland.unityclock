@@ -1,0 +1,432 @@
+{
+  "sitemap": {
+    "baseUrl": "https://vu-truong.github.io/com.caseyhofland.unityclock/"
+  },
+  "source_base_path": "/home/runner/work/com.caseyhofland.unityclock/com.caseyhofland.unityclock/Documentation~",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.TimeOnly.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.TimeOnly.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "System.TimeOnly",
+      "Summary": "<p sourcefile=\"api/System.TimeOnly.yml\" sourcestartlinenumber=\"1\">Represents a time of day, as would be read from a clock, within the range 00:00:00 to 23:59:59.9999999.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "System",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityClock.AnimationClipCycle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityClock.AnimationClipCycle.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "UnityClock.AnimationClipCycle",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityClock.Clock.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityClock.Clock.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "UnityClock.Clock",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityClock.ClockInstance.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityClock.ClockInstance.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "UnityClock.ClockInstance",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityClock.CycleAnimator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityClock.CycleAnimator.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "UnityClock.CycleAnimator",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityClock.CyclePlayableExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityClock.CyclePlayableExtensions.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "UnityClock.CyclePlayableExtensions",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityClock.Editor.ClockPreviewControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityClock.Editor.ClockPreviewControl.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "UnityClock.Editor.ClockPreviewControl",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityClock.Editor.ClockToolbar.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityClock.Editor.ClockToolbar.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "UnityClock.Editor.ClockToolbar",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityClock.Editor.SceneClockElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityClock.Editor.SceneClockElement.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "UnityClock.Editor.SceneClockElement",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityClock.Editor.TimeOnlyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityClock.Editor.TimeOnlyDrawer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "UnityClock.Editor.TimeOnlyDrawer",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityClock.Editor.TimeSpanDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityClock.Editor.TimeSpanDrawer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "UnityClock.Editor.TimeSpanDrawer",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityClock.Editor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityClock.Editor.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "UnityClock.Editor",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityClock.ICycle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityClock.ICycle.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "UnityClock.ICycle",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityClock.ICycleSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityClock.ICycleSource.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "UnityClock.ICycleSource",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityClock.Instance-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityClock.Instance-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "UnityClock.Instance<T>",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityClock.TimeOnlyAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityClock.TimeOnlyAttribute.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "UnityClock.TimeOnlyAttribute",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityClock.TimeSpanAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityClock.TimeSpanAttribute.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "UnityClock.TimeSpanAttribute",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityClock.UIElements.TimeOnlyField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityClock.UIElements.TimeOnlyField.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "UnityClock.UIElements.TimeOnlyField",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityClock.UIElements.TimeSpanField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityClock.UIElements.TimeSpanField.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "UnityClock.UIElements.TimeSpanField",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityClock.UIElements.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityClock.UIElements.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "UnityClock.UIElements",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityClock.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityClock.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "UnityClock",
+      "Summary": null
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "changelog/CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "changelog/CHANGELOG.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "changelog/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "changelog/toc.html"
+        },
+        ".json": {
+          "relative_path": "changelog/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "license/LICENSE.md",
+      "output": {
+        ".html": {
+          "relative_path": "license/LICENSE.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "license/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "license/toc.html"
+        },
+        ".json": {
+          "relative_path": "license/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

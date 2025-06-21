@@ -19,7 +19,7 @@ jobs:
           submodules: true
 
       - name: Build
-        uses: CaseyHofland/docfx-unitypackage@v1
+        uses: CaseyHofland/docfx-unitypackage/action.yml@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
